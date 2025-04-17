@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20411025T013621
+UID:2041-10-25-01:36:21-annular-solar
+DTSTART:20411025T013621
+DESCRIPTION:Type: annular solar Eclipse\nRegion: e Asia\, Pacific [Annular:
+  Mongolia\, China\, Korea\, Japan\, Pacific]\nCountries: Mongolia\, China\
+ , Korea\, Japan
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20570701T234015
+UID:2057-07-01-23:40:15-annular-solar
+DTSTART:20570701T234015
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Asia\, North America [Annu
+ lar: China\, Mongolia\, Russia\, Canada\, U.S.]\nCountries: China\, Mongol
+ ia\, Russia\, Canada\, US
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20581116T032307
+UID:2058-11-16-03:23:07-partial-solar
+DTSTART:20581116T032307
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Russia\, China\, Mongolia\
+ , Japan\nCountries: Russia\, China\, Mongolia\, Japan
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20630824T012210
+UID:2063-08-24-01:22:10-total-solar
+DTSTART:20630824T012210
+DESCRIPTION:Type: total solar Eclipse\nRegion: Asia\, Central Pacific [Tota
+ l: China\, Mongolia\, Japan\, Central Pacific]\nCountries: China\, Mongoli
+ a\, Japan
+SUMMARY:total solar Eclipse
+END:VEVENT
+END:VCALENDAR

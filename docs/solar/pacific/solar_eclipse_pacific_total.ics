@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20350902T015646
+UID:2035-09-02-01:56:46-total-solar
+DTSTART:20350902T015646
+DESCRIPTION:Type: total solar Eclipse\nRegion: e Asia\, Pacific [Total: Chi
+ na\, Korea\, Japan\, Pacific]\nCountries: China\, Korea\, Japan
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20370713T024035
+UID:2037-07-13-02:40:35-total-solar
+DTSTART:20370713T024035
+DESCRIPTION:Type: total solar Eclipse\nRegion: E. Indies\, Australia\, Paci
+ fic [Total: Australia\, New Zealand]\nCountries: Australia\, New Zealand
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20381226T010010
+UID:2038-12-26-01:00:10-total-solar
+DTSTART:20381226T010010
+DESCRIPTION:Type: total solar Eclipse\nRegion: se Asia\, E. Indies\, Austra
+ lia\, New Zealand\, s Pacific\, Antarctica [Total: Australia\, New Zealand
+ \, s Pacific]\nCountries: Australia\, New Zealand
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20420420T021730
+UID:2042-04-20-02:17:30-total-solar
+DTSTART:20420420T021730
+DESCRIPTION:Type: total solar Eclipse\nRegion: e Asia\, se Asia\, Australia
+ \, Pacific [Total: Malaysia\, Indondesia\, Philippines\, n Pacific]\nCount
+ ries: Malaysia\, Indonesia\, Philippines
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20520330T183152
+UID:2052-03-30-18:31:52-total-solar
+DTSTART:20520330T183152
+DESCRIPTION:Type: total solar Eclipse\nRegion: N. America\, C. America\, n 
+ S. America [Total: Central Pacific\, Mexico\, U.S.\, Central Atlantic]\nCo
+ untries: Mexico\, US
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20590511T192215
+UID:2059-05-11-19:22:15-total-solar
+DTSTART:20590511T192215
+DESCRIPTION:Type: total solar Eclipse\nRegion: N. America\, C. America\, S.
+  America [Total: Central Pacific\, Ecuador\, Peru\, Brazil]\nCountries: Ec
+ uador\, Peru\, Brazil
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20630824T012210
+UID:2063-08-24-01:22:10-total-solar
+DTSTART:20630824T012210
+DESCRIPTION:Type: total solar Eclipse\nRegion: Asia\, Central Pacific [Tota
+ l: China\, Mongolia\, Japan\, Central Pacific]\nCountries: China\, Mongoli
+ a\, Japan
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20640812T174605
+UID:2064-08-12-17:46:05-total-solar
+DTSTART:20640812T174605
+DESCRIPTION:Type: total solar Eclipse\nRegion: Americas\, Antarctica [Total
+ : Central Pacific\, Chile\, Argentina]\nCountries: Chile\, Argentina
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20661217T002339
+UID:2066-12-17-00:23:39-total-solar
+DTSTART:20661217T002339
+DESCRIPTION:Type: total solar Eclipse\nRegion: Australia\, Antarctica\, N.Z
+ . [Total: Australia\, New Zealand\, South Pacific]\nCountries: Australia\,
+  New Zealand
+SUMMARY:total solar Eclipse
+END:VEVENT
+END:VCALENDAR

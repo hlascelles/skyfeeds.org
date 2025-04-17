@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20280126T150858
+UID:2028-01-26-15:08:58-annular-solar
+DTSTART:20280126T150858
+DESCRIPTION:Type: annular solar Eclipse\nRegion: e N. America\, C. & S. Ame
+ rica\, w Europe\, nw Africa [Annular: Ecuador\, Peru\, Brazil\, Suriname\,
+  Spain\, Portugal]\nCountries: Ecuador\, Peru\, Brazil\, Suriname\, Spain\
+ , Portugal
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20490531T135958
+UID:2049-05-31-13:59:58-annular-solar
+DTSTART:20490531T135958
+DESCRIPTION:Type: annular solar Eclipse\nRegion: se US\, C. America\, S. Am
+ erica\, Africa\, s Europe [Annular: Peru\, Ecuador\, Colombia\, Venezuela\
+ , Guyana\, Senegal\, Mali\, Burkina Faso\, Ghana\, Nigeria]\nCountries: US
+ \, Peru\, Ecuador\, Colombia\, Venezuela\, Guyana\, Senegal\, Mali\, Burki
+ na Faso\, Ghana\, Nigeria
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20560712T202158
+UID:2056-07-12-20:21:58-annular-solar
+DTSTART:20560712T202158
+DESCRIPTION:Type: annular solar Eclipse\nRegion: s N. America\, C. America\
+ , n S. America [Annular: Central Pacific\, Colombia\, Ecuador\, Peru\, Bra
+ zil]\nCountries: Colombia\, Ecuador\, Peru\, Brazil
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20590511T192215
+UID:2059-05-11-19:22:15-total-solar
+DTSTART:20590511T192215
+DESCRIPTION:Type: total solar Eclipse\nRegion: N. America\, C. America\, S.
+  America [Total: Central Pacific\, Ecuador\, Peru\, Brazil]\nCountries: Ec
+ uador\, Peru\, Brazil
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20670611T204226
+UID:2067-06-11-20:42:26-annular-solar
+DTSTART:20670611T204226
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Americas [Annular: Central
+  Pacific\, Ecuador\, Peru]\nCountries: Ecuador\, Peru
+SUMMARY:annular solar Eclipse
+END:VEVENT
+END:VCALENDAR

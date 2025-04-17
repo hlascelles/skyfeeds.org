@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230420T041755
+UID:2023-04-20-04:17:55-hybrid-solar
+DTSTART:20230420T041755
+DESCRIPTION:Type: hybrid solar Eclipse\nRegion: se Asia\, E. Indies\, Austr
+ alia\, Philippines. N.Z. [Hybrid: Indonesia\, Australia\, Papua New Guinea
+ ]\nCountries: Indonesia\, Australia\, Papua New Guinea
+SUMMARY:hybrid solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20311114T210730
+UID:2031-11-14-21:07:30-hybrid-solar
+DTSTART:20311114T210730
+DESCRIPTION:Type: hybrid solar Eclipse\nRegion: Pacific\, s US\, C. America
+ \, nw S. America [Hybrid: Pacific\, Panama]\nCountries: US\, Panama
+SUMMARY:hybrid solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20491125T053347
+UID:2049-11-25-05:33:47-hybrid-solar
+DTSTART:20491125T053347
+DESCRIPTION:Type: hybrid solar Eclipse\nRegion: e Africa\, s Asia\, East In
+ dies\, Australia [Hybrid: Saudi Arabia\, Yemen\, Malaysia\, Indonesia]\nCo
+ untries: Saudi Arabia\, Yemen\, Malaysia\, Indonesia
+SUMMARY:hybrid solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20500520T204250
+UID:2050-05-20-20:42:50-hybrid-solar
+DTSTART:20500520T204250
+DESCRIPTION:Type: hybrid solar Eclipse\nRegion: N.Z.\, s Pacific\, sw S. Am
+ erica [Hybrid: s Pacific]\nCountries: New Zealand
+SUMMARY:hybrid solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20671206T140342
+UID:2067-12-06-14:03:42-hybrid-solar
+DTSTART:20671206T140342
+DESCRIPTION:Type: hybrid solar Eclipse\nRegion: Americas\, Africa\, s Europ
+ e [Hybrid: Honduras\, Nicaragua\, Colombia\, Venezuela\, Guyana\, Brazil\,
+  Nigeria\, Cameroon\, Chad\, Sudan]\nCountries: Honduras\, Nicaragua\, Col
+ ombia\, Venezuela\, Guyana\, Brazil\, Nigeria\, Cameroon\, Chad\, Sudan
+SUMMARY:hybrid solar Eclipse
+END:VEVENT
+END:VCALENDAR

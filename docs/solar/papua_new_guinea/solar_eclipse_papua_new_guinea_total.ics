@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230420T041755
+UID:2023-04-20-04:17:55-hybrid-solar
+DTSTART:20230420T041755
+DESCRIPTION:Type: hybrid solar Eclipse\nRegion: se Asia\, E. Indies\, Austr
+ alia\, Philippines. N.Z. [Hybrid: Indonesia\, Australia\, Papua New Guinea
+ ]\nCountries: Indonesia\, Australia\, Papua New Guinea
+SUMMARY:hybrid solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20460205T230626
+UID:2046-02-05-23:06:26-annular-solar
+DTSTART:20460205T230626
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Australia\, Papua New Guin
+ ea\, w US [Annular: Papua New Guinea\, Hawaii\, California\, Oregon\, Idah
+ o]\nCountries: Australia\, Papua New Guinea\, US
+SUMMARY:annular solar Eclipse
+END:VEVENT
+END:VCALENDAR

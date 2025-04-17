@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20390621T171253
+UID:2039-06-21-17:12:53-annular-solar
+DTSTART:20390621T171253
+DESCRIPTION:Type: annular solar Eclipse\nRegion: N. America\, w Europe [Ann
+ ular: Alaska\, n Canada\, Norway\, Sweden\, Finland\, Estonia\, Russia]\nC
+ ountries: US\, Canada\, Norway\, Sweden\, Finland\, Estonia\, Russia
+SUMMARY:annular solar Eclipse
+END:VEVENT
+END:VCALENDAR

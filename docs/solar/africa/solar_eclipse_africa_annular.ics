@@ -1,0 +1,159 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20260217T121305
+UID:2026-02-17-12:13:05-annular-solar
+DTSTART:20260217T121305
+DESCRIPTION:Type: annular solar Eclipse\nRegion: s Argentina & Chile\, s Af
+ rica\, Antarctica [Annular: Antarctica]\nCountries: Argentina\, Chile\, An
+ tarctica
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20270206T160047
+UID:2027-02-06-16:00:47-annular-solar
+DTSTART:20270206T160047
+DESCRIPTION:Type: annular solar Eclipse\nRegion: S. America\, Antarctica\, 
+ w & s Africa [Annular: Chile\, Argentina\, Atlantic]\nCountries: Chile\, A
+ rgentina
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20280126T150858
+UID:2028-01-26-15:08:58-annular-solar
+DTSTART:20280126T150858
+DESCRIPTION:Type: annular solar Eclipse\nRegion: e N. America\, C. & S. Ame
+ rica\, w Europe\, nw Africa [Annular: Ecuador\, Peru\, Brazil\, Suriname\,
+  Spain\, Portugal]\nCountries: Ecuador\, Peru\, Brazil\, Suriname\, Spain\
+ , Portugal
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20300601T062913
+UID:2030-06-01-06:29:13-annular-solar
+DTSTART:20300601T062913
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Europe\, n Africa\, Mid Ea
+ st\, Asia\, Arctic\, Alaska [Annular: Algeria\, Tunisia\, Greece\, Turkey\
+ , Russia\, n. China\, Japan]\nCountries: Algeria\, Tunisia\, Greece\, Turk
+ ey\, Russia\, China\, Japan
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20310521T071604
+UID:2031-05-21-07:16:04-annular-solar
+DTSTART:20310521T071604
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, s Asia\, E. Indie
+ s\, Australia [Annular: Angola\, Congo\, Zambia\, Tanzania\, s. India\, Ma
+ laysia\, Indonesia]\nCountries: Angola\, Congo\, Zambia\, Tanzania\, India
+ \, Malaysia\, Indonesia
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20320509T132642
+UID:2032-05-09-13:26:42-annular-solar
+DTSTART:20320509T132642
+DESCRIPTION:Type: annular solar Eclipse\nRegion: s S. America\, s Africa [A
+ nnular: s Atlantic]
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20380105T134710
+UID:2038-01-05-13:47:10-annular-solar
+DTSTART:20380105T134710
+DESCRIPTION:Type: annular solar Eclipse\nRegion: e N. America\, n S. Americ
+ a\, Atlantic\, Africa\, Europe [Annular: Cuba\, Dom.Rep.\, Cote d'Ivoire\,
+  Ghana\, Niger\, Chad\, Egypt]\nCountries: Cuba\, Dominican Republic\, Cot
+ e d'Ivoire\, Ghana\, Niger\, Chad\, Egypt
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20380702T133254
+UID:2038-07-02-13:32:54-annular-solar
+DTSTART:20380702T133254
+DESCRIPTION:Type: annular solar Eclipse\nRegion: N. & C. America\, S. Ameri
+ ca\, Africa\, Europe\, Mid East [Annular: Colombia\, Venezuela\, Mauritani
+ a\, Morocco\, Mali\, Niger\, Chad\, Sudan\, Ethiopia\, Kenya]\nCountries: 
+ Colombia\, Venezuela\, Mauritania\, Morocco\, Mali\, Niger\, Chad\, Sudan\
+ , Ethiopia\, Kenya
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20480611T125852
+UID:2048-06-11-12:58:52-annular-solar
+DTSTART:20480611T125852
+DESCRIPTION:Type: annular solar Eclipse\nRegion: N. America\, Caribbean\, n
+  Africa\, Europe\, w Asia [Annular: midwest US\, Quebec\, Ontario\, Greenl
+ and\, Iceland\, Norway\, Sweden\, Russia\, Afganistan]\nCountries: US\, Ca
+ nada\, Greenland\, Iceland\, Norway\, Sweden\, Russia\, Afghanistan
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20490531T135958
+UID:2049-05-31-13:59:58-annular-solar
+DTSTART:20490531T135958
+DESCRIPTION:Type: annular solar Eclipse\nRegion: se US\, C. America\, S. Am
+ erica\, Africa\, s Europe [Annular: Peru\, Ecuador\, Colombia\, Venezuela\
+ , Guyana\, Senegal\, Mali\, Burkina Faso\, Ghana\, Nigeria]\nCountries: US
+ \, Peru\, Ecuador\, Colombia\, Venezuela\, Guyana\, Senegal\, Mali\, Burki
+ na Faso\, Ghana\, Nigeria
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20530320T070819
+UID:2053-03-20-07:08:19-annular-solar
+DTSTART:20530320T070819
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, Indies\, Australi
+ a\, Antarctica [Annular: Central Indian\, Indonesia]\nCountries: Indonesia
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20591105T091814
+UID:2059-11-05-09:18:14-annular-solar
+DTSTART:20591105T091814
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, Europe\, Asia [An
+ nular: France\, Libya\, Egypt\, Sudan\, Ethiopia\, Eritrea\, Somalia\, Ind
+ onesia]\nCountries: France\, Libya\, Egypt\, Sudan\, Ethiopia\, Eritrea\, 
+ Somalia\, Indonesia
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20601024T092410
+UID:2060-10-24-09:24:10-annular-solar
+DTSTART:20601024T092410
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, Antarctica\, S. A
+ merica [Annular: Guinea\, Sierra Leone\, Liberia\, Ivory Coast\, Angola\, 
+ Nambia\, Botswana\, South Africa]\nCountries: Guinea\, Sierra Leone\, Libe
+ ria\, Ivory Coast\, Angola\, Namibia\, Botswana\, South Africa
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20630228T074329
+UID:2063-02-28-07:43:29-annular-solar
+DTSTART:20630228T074329
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, Indies\, se Asia\
+ , Antarctica\, Australia [Annular: Indian Ocean\, Indonesia\, Malaysia]\nC
+ ountries: Indonesia\, Malaysia
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20640217T070023
+UID:2064-02-17-07:00:23-annular-solar
+DTSTART:20640217T070023
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, Asia [Annular: Za
+ ire\, Zambia\, Tanzania\, India\, Nepal\, Bangladesh\, Bhutan\, China]\nCo
+ untries: Democratic Republic of Congo\, Zambia\, Tanzania\, India\, Nepal\
+ , Bangladesh\, Bhutan\, China
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20701004T070856
+UID:2070-10-04-07:08:56-annular-solar
+DTSTART:20701004T070856
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, Antarctica\, Aust
+ ralia [Annular: Angola\, Zambia\, Zimbabwe\, Mozambique\, Madagascar]\nCou
+ ntries: Angola\, Zambia\, Zimbabwe\, Mozambique\, Madagascar
+SUMMARY:annular solar Eclipse
+END:VEVENT
+END:VCALENDAR

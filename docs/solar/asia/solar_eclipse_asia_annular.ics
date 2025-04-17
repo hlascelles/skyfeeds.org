@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20210610T104306
+UID:2021-06-10-10:43:06-annular-solar
+DTSTART:20210610T104306
+DESCRIPTION:Type: annular solar Eclipse\nRegion: n N. America\, Europe\, As
+ ia [Annular: n Canada\, Greenland\, Russia]\nCountries: Canada\, Greenland
+ \, Russia
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20300601T062913
+UID:2030-06-01-06:29:13-annular-solar
+DTSTART:20300601T062913
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Europe\, n Africa\, Mid Ea
+ st\, Asia\, Arctic\, Alaska [Annular: Algeria\, Tunisia\, Greece\, Turkey\
+ , Russia\, n. China\, Japan]\nCountries: Algeria\, Tunisia\, Greece\, Turk
+ ey\, Russia\, China\, Japan
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20310521T071604
+UID:2031-05-21-07:16:04-annular-solar
+DTSTART:20310521T071604
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, s Asia\, E. Indie
+ s\, Australia [Annular: Angola\, Congo\, Zambia\, Tanzania\, s. India\, Ma
+ laysia\, Indonesia]\nCountries: Angola\, Congo\, Zambia\, Tanzania\, India
+ \, Malaysia\, Indonesia
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20411025T013621
+UID:2041-10-25-01:36:21-annular-solar
+DTSTART:20411025T013621
+DESCRIPTION:Type: annular solar Eclipse\nRegion: e Asia\, Pacific [Annular:
+  Mongolia\, China\, Korea\, Japan\, Pacific]\nCountries: Mongolia\, China\
+ , Korea\, Japan
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20421014T020041
+UID:2042-10-14-02:00:41-annular-solar
+DTSTART:20421014T020041
+DESCRIPTION:Type: annular solar Eclipse\nRegion: se Asia\, E. Indies\, Aust
+ ralia\, \, s Pacific\, Antarctica [Annular: Thailand\, Malaysia\, Indonesi
+ a\, Australia\, New Zealand]\nCountries: Thailand\, Malaysia\, Indonesia\,
+  Australia\, New Zealand
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20480611T125852
+UID:2048-06-11-12:58:52-annular-solar
+DTSTART:20480611T125852
+DESCRIPTION:Type: annular solar Eclipse\nRegion: N. America\, Caribbean\, n
+  Africa\, Europe\, w Asia [Annular: midwest US\, Quebec\, Ontario\, Greenl
+ and\, Iceland\, Norway\, Sweden\, Russia\, Afganistan]\nCountries: US\, Ca
+ nada\, Greenland\, Iceland\, Norway\, Sweden\, Russia\, Afghanistan
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20570701T234015
+UID:2057-07-01-23:40:15-annular-solar
+DTSTART:20570701T234015
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Asia\, North America [Annu
+ lar: China\, Mongolia\, Russia\, Canada\, U.S.]\nCountries: China\, Mongol
+ ia\, Russia\, Canada\, US
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20591105T091814
+UID:2059-11-05-09:18:14-annular-solar
+DTSTART:20591105T091814
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, Europe\, Asia [An
+ nular: France\, Libya\, Egypt\, Sudan\, Ethiopia\, Eritrea\, Somalia\, Ind
+ onesia]\nCountries: France\, Libya\, Egypt\, Sudan\, Ethiopia\, Eritrea\, 
+ Somalia\, Indonesia
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20630228T074329
+UID:2063-02-28-07:43:29-annular-solar
+DTSTART:20630228T074329
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, Indies\, se Asia\
+ , Antarctica\, Australia [Annular: Indian Ocean\, Indonesia\, Malaysia]\nC
+ ountries: Indonesia\, Malaysia
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20640217T070023
+UID:2064-02-17-07:00:23-annular-solar
+DTSTART:20640217T070023
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, Asia [Annular: Za
+ ire\, Zambia\, Tanzania\, India\, Nepal\, Bangladesh\, Bhutan\, China]\nCo
+ untries: Democratic Republic of Congo\, Zambia\, Tanzania\, India\, Nepal\
+ , Bangladesh\, Bhutan\, China
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20660622T192547
+UID:2066-06-22-19:25:47-annular-solar
+DTSTART:20660622T192547
+DESCRIPTION:Type: annular solar Eclipse\nRegion: N. America\, n Europe\, n 
+ Asia [Annular: Russia\, Alaska\, Canada]\nCountries: Russia\, US\, Canada
+SUMMARY:annular solar Eclipse
+END:VEVENT
+END:VCALENDAR

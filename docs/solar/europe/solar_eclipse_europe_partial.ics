@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20221025T110119
+UID:2022-10-25-11:01:19-partial-solar
+DTSTART:20221025T110119
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Europe\, ne Africa\, Mid E
+ ast\, w Asia
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250329T104836
+UID:2025-03-29-10:48:36-partial-solar
+DTSTART:20250329T104836
+DESCRIPTION:Type: partial solar Eclipse\nRegion: nw Africa\, Europe\, n Rus
+ sia\nCountries: Russia
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20360821T172545
+UID:2036-08-21-17:25:45-partial-solar
+DTSTART:20360821T172545
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Alaska\, Canada\, Arctic\,
+  w Europe\, nw Africa\nCountries: US\, Canada
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20370116T094855
+UID:2037-01-16-09:48:55-partial-solar
+DTSTART:20370116T094855
+DESCRIPTION:Type: partial solar Eclipse\nRegion: n Africa\, Europe\, Mid Ea
+ st\, w Asia
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20620903T085426
+UID:2062-09-03-08:54:26-partial-solar
+DTSTART:20620903T085426
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Greenland\, Europe\, Asia\
+ nCountries: Greenland
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20650205T095225
+UID:2065-02-05-09:52:25-partial-solar
+DTSTART:20650205T095225
+DESCRIPTION:Type: partial solar Eclipse\nRegion: North Africa\, Europe\, We
+ st Asia
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20650703T173352
+UID:2065-07-03-17:33:52-partial-solar
+DTSTART:20650703T173352
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Northern Europe\, Russia\n
+ Countries: Russia
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20690421T101108
+UID:2069-04-21-10:11:08-partial-solar
+DTSTART:20690421T101108
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Europe\, Asia\, n Africa\,
+  N. America
+SUMMARY:partial solar Eclipse
+END:VEVENT
+END:VCALENDAR

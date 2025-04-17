@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20640812T174605
+UID:2064-08-12-17:46:05-total-solar
+DTSTART:20640812T174605
+DESCRIPTION:Type: total solar Eclipse\nRegion: Americas\, Antarctica [Total
+ : Central Pacific\, Chile\, Argentina]\nCountries: Chile\, Argentina
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20670611T204226
+UID:2067-06-11-20:42:26-annular-solar
+DTSTART:20670611T204226
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Americas [Annular: Central
+  Pacific\, Ecuador\, Peru]\nCountries: Ecuador\, Peru
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20671206T140342
+UID:2067-12-06-14:03:42-hybrid-solar
+DTSTART:20671206T140342
+DESCRIPTION:Type: hybrid solar Eclipse\nRegion: Americas\, Africa\, s Europ
+ e [Hybrid: Honduras\, Nicaragua\, Colombia\, Venezuela\, Guyana\, Brazil\,
+  Nigeria\, Cameroon\, Chad\, Sudan]\nCountries: Honduras\, Nicaragua\, Col
+ ombia\, Venezuela\, Guyana\, Brazil\, Nigeria\, Cameroon\, Chad\, Sudan
+SUMMARY:hybrid solar Eclipse
+END:VEVENT
+END:VCALENDAR

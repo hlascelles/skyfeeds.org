@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20270802T100749
+UID:2027-08-02-10:07:49-total-solar
+DTSTART:20270802T100749
+DESCRIPTION:Type: total solar Eclipse\nRegion: Africa\, Europe\, Mid East\,
+  w & s Asia [Total:Morocco\, Spain\, Algeria\, Libya\, Egypt\, Saudi Arabi
+ a\, Yemen\, Somalia]\nCountries: Morocco\, Spain\, Algeria\, Libya\, Egypt
+ \, Saudi Arabia\, Yemen\, Somalia
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20280722T025639
+UID:2028-07-22-02:56:39-total-solar
+DTSTART:20280722T025639
+DESCRIPTION:Type: total solar Eclipse\nRegion: SE Asia\, E. Indies\, Austra
+ lia\, N.Z. [Total: Australia\, N. Z.]\nCountries: Australia\, New Zealand
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20340320T101845
+UID:2034-03-20-10:18:45-total-solar
+DTSTART:20340320T101845
+DESCRIPTION:Type: total solar Eclipse\nRegion: Africa\, Europe\, w Asia [To
+ tal: Nigeria\, Cameroon\, Chad\, Sudan\, Egypt\, Saudi Arabia\, Iran\, Afg
+ hanistan\, Pakistan\, India\, China]\nCountries: Nigeria\, Cameroon\, Chad
+ \, Sudan\, Egypt\, Saudi Arabia\, Iran\, Afghanistan\, Pakistan\, India\, 
+ China
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20350902T015646
+UID:2035-09-02-01:56:46-total-solar
+DTSTART:20350902T015646
+DESCRIPTION:Type: total solar Eclipse\nRegion: e Asia\, Pacific [Total: Chi
+ na\, Korea\, Japan\, Pacific]\nCountries: China\, Korea\, Japan
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20381226T010010
+UID:2038-12-26-01:00:10-total-solar
+DTSTART:20381226T010010
+DESCRIPTION:Type: total solar Eclipse\nRegion: se Asia\, E. Indies\, Austra
+ lia\, New Zealand\, s Pacific\, Antarctica [Total: Australia\, New Zealand
+ \, s Pacific]\nCountries: Australia\, New Zealand
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20420420T021730
+UID:2042-04-20-02:17:30-total-solar
+DTSTART:20420420T021730
+DESCRIPTION:Type: total solar Eclipse\nRegion: e Asia\, se Asia\, Australia
+ \, Pacific [Total: Malaysia\, Indondesia\, Philippines\, n Pacific]\nCount
+ ries: Malaysia\, Indonesia\, Philippines
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20430409T185749
+UID:2043-04-09-18:57:49-total-solar
+DTSTART:20430409T185749
+DESCRIPTION:Type: total solar Eclipse\nRegion: n N. America\, ne Asia [Tota
+ l: ne Russia]\nCountries: Russia
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20440823T011701
+UID:2044-08-23-01:17:01-total-solar
+DTSTART:20440823T011701
+DESCRIPTION:Type: total solar Eclipse\nRegion: n Asia\, w N. America\, Gree
+ nland [Total: Greenland\, n Canada\, Montana\, N. Dakota]\nCountries: Gree
+ nland\, Canada\, US
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20530912T093409
+UID:2053-09-12-09:34:09-total-solar
+DTSTART:20530912T093409
+DESCRIPTION:Type: total solar Eclipse\nRegion: Greenland\, Africa\, Europe\
+ , Asia [Total: Morocco\, Algeria\, Tunisia\, Libya\, Egypt. Saudi Arabia\,
+  Indonesia]\nCountries: Morocco\, Algeria\, Tunisia\, Libya\, Egypt\, Saud
+ i Arabia\, Indonesia
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20600430T100959
+UID:2060-04-30-10:09:59-total-solar
+DTSTART:20600430T100959
+DESCRIPTION:Type: total solar Eclipse\nRegion: Africa\, Asia [Total: Ivory 
+ Coast\, Ghana\, Togo\, Benin\, Nigeria\, Niger\, Chad\, Libya\, Egypt\, Tu
+ rkey\, Kazakhstan\, Russia]\nCountries: Ivory Coast\, Ghana\, Togo\, Benin
+ \, Nigeria\, Niger\, Chad\, Libya\, Egypt\, Turkey\, Kazakhstan\, Russia
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20610420T025649
+UID:2061-04-20-02:56:49-total-solar
+DTSTART:20610420T025649
+DESCRIPTION:Type: total solar Eclipse\nRegion: Asia. Middle East\, N. Ameri
+ ca [Total: Kazakhstan\, Russia]\nCountries: Kazakhstan\, Russia
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20630824T012210
+UID:2063-08-24-01:22:10-total-solar
+DTSTART:20630824T012210
+DESCRIPTION:Type: total solar Eclipse\nRegion: Asia\, Central Pacific [Tota
+ l: China\, Mongolia\, Japan\, Central Pacific]\nCountries: China\, Mongoli
+ a\, Japan
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20700411T023609
+UID:2070-04-11-02:36:09-total-solar
+DTSTART:20700411T023609
+DESCRIPTION:Type: total solar Eclipse\nRegion: Asia\, Indies\, Alaska\, Can
+ ada [Total: Sri Lanka\, Myanmar\, Thailand\, Laos\, Vietnam\, Philippines]
+ \nCountries: Sri Lanka\, Myanmar\, Thailand\, Laos\, Vietnam\, Philippines
+ \, US\, Canada
+SUMMARY:total solar Eclipse
+END:VEVENT
+END:VCALENDAR

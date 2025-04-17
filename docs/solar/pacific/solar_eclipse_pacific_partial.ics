@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20220430T204236
+UID:2022-04-30-20:42:36-partial-solar
+DTSTART:20220430T204236
+DESCRIPTION:Type: partial solar Eclipse\nRegion: se Pacific\, s S. America
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250921T194304
+UID:2025-09-21-19:43:04-partial-solar
+DTSTART:20250921T194304
+DESCRIPTION:Type: partial solar Eclipse\nRegion: s Pacific\, N.Z.\, Antarct
+ ica\nCountries: New Zealand\, Antarctica
+SUMMARY:partial solar Eclipse
+END:VEVENT
+END:VCALENDAR

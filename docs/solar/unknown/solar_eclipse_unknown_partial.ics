@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20290114T171347
+UID:2029-01-14-17:13:47-partial-solar
+DTSTART:20290114T171347
+DESCRIPTION:Type: partial solar Eclipse\nRegion: N. America\, C. America
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20290711T153718
+UID:2029-07-11-15:37:18-partial-solar
+DTSTART:20290711T153718
+DESCRIPTION:Type: partial solar Eclipse\nRegion: s Chile\, s Argentina\nCou
+ ntries: Chile\, Argentina
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20360723T103206
+UID:2036-07-23-10:32:06-partial-solar
+DTSTART:20360723T103206
+DESCRIPTION:Type: partial solar Eclipse\nRegion: s Atlantic
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20401104T190901
+UID:2040-11-04-19:09:01-partial-solar
+DTSTART:20401104T190901
+DESCRIPTION:Type: partial solar Eclipse\nRegion: N. & C. America
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20470722T223616
+UID:2047-07-22-22:36:16-partial-solar
+DTSTART:20470722T223616
+DESCRIPTION:Type: partial solar Eclipse\nRegion: se Australia\, New Zealand
+ \nCountries: Australia\, New Zealand
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20501114T133052
+UID:2050-11-14-13:30:52-partial-solar
+DTSTART:20501114T133052
+DESCRIPTION:Type: partial solar Eclipse
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20550127T175405
+UID:2055-01-27-17:54:05-partial-solar
+DTSTART:20550127T175405
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Canada\, U.S.\, Mexico\, C
+ uba\nCountries: Canada\, US\, Mexico\, Cuba
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20580621T001934
+UID:2058-06-21-00:19:34-partial-solar
+DTSTART:20580621T001934
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Russia\, Greenland\, Norwa
+ y\, Sweden\, Finland\nCountries: Russia\, Greenland\, Norway\, Sweden\, Fi
+ nland
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20581116T032307
+UID:2058-11-16-03:23:07-partial-solar
+DTSTART:20581116T032307
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Russia\, China\, Mongolia\
+ , Japan\nCountries: Russia\, China\, Mongolia\, Japan
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20681124T213229
+UID:2068-11-24-21:32:29-partial-solar
+DTSTART:20681124T213229
+DESCRIPTION:Type: partial solar Eclipse\nRegion: North America\, Russia\nCo
+ untries: US\, Canada\, Russia
+SUMMARY:partial solar Eclipse
+END:VEVENT
+END:VCALENDAR

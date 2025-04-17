@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20420420T021730
+UID:2042-04-20-02:17:30-total-solar
+DTSTART:20420420T021730
+DESCRIPTION:Type: total solar Eclipse\nRegion: e Asia\, se Asia\, Australia
+ \, Pacific [Total: Malaysia\, Indondesia\, Philippines\, n Pacific]\nCount
+ ries: Malaysia\, Indonesia\, Philippines
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20700411T023609
+UID:2070-04-11-02:36:09-total-solar
+DTSTART:20700411T023609
+DESCRIPTION:Type: total solar Eclipse\nRegion: Asia\, Indies\, Alaska\, Can
+ ada [Total: Sri Lanka\, Myanmar\, Thailand\, Laos\, Vietnam\, Philippines]
+ \nCountries: Sri Lanka\, Myanmar\, Thailand\, Laos\, Vietnam\, Philippines
+ \, US\, Canada
+SUMMARY:total solar Eclipse
+END:VEVENT
+END:VCALENDAR

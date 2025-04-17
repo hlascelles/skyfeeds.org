@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20240408T181829
+UID:2024-04-08-18:18:29-total-solar
+DTSTART:20240408T181829
+DESCRIPTION:Type: total solar Eclipse\nRegion: N. America\, C. America [Tot
+ al: Mexico\, c US\, e Canada]\nCountries: Mexico\, US\, Canada
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20330330T180235
+UID:2033-03-30-18:02:35-total-solar
+DTSTART:20330330T180235
+DESCRIPTION:Type: total solar Eclipse\nRegion: N. America [Total: e Russia\
+ , Alaska]\nCountries: Russia\, US
+SUMMARY:total solar Eclipse
+END:VEVENT
+END:VCALENDAR

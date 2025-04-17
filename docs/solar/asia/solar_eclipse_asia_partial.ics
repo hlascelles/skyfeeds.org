@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20221025T110119
+UID:2022-10-25-11:01:19-partial-solar
+DTSTART:20221025T110119
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Europe\, ne Africa\, Mid E
+ ast\, w Asia
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20290612T040613
+UID:2029-06-12-04:06:13-partial-solar
+DTSTART:20290612T040613
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Arctic\, Scandanavia\, Ala
+ ska\, n Asia\, n Canada\nCountries: Canada
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20321103T053412
+UID:2032-11-03-05:34:12-partial-solar
+DTSTART:20321103T053412
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Asia
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20370116T094855
+UID:2037-01-16-09:48:55-partial-solar
+DTSTART:20370116T094855
+DESCRIPTION:Type: partial solar Eclipse\nRegion: n Africa\, Europe\, Mid Ea
+ st\, w Asia
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20470126T013317
+UID:2047-01-26-01:33:17-partial-solar
+DTSTART:20470126T013317
+DESCRIPTION:Type: partial solar Eclipse\nRegion: e Asia\, Alaska\nCountries
+ : China\, Japan\, US
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20470623T105230
+UID:2047-06-23-10:52:30-partial-solar
+DTSTART:20470623T105230
+DESCRIPTION:Type: partial solar Eclipse\nRegion: n Canada\, Greenland\, ne 
+ Asia\nCountries: Canada\, Greenland\, Russia
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20510411T021038
+UID:2051-04-11-02:10:38-partial-solar
+DTSTART:20510411T021038
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Asia\, Alaska\, Canada\, G
+ reenland\nCountries: Canada\, Greenland
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20540902T010933
+UID:2054-09-02-01:09:33-partial-solar
+DTSTART:20540902T010933
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Asia\, U.S.\, Canada\, Gre
+ enland\nCountries: US\, Canada\, Greenland
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20620903T085426
+UID:2062-09-03-08:54:26-partial-solar
+DTSTART:20620903T085426
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Greenland\, Europe\, Asia\
+ nCountries: Greenland
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20650205T095225
+UID:2065-02-05-09:52:25-partial-solar
+DTSTART:20650205T095225
+DESCRIPTION:Type: partial solar Eclipse\nRegion: North Africa\, Europe\, We
+ st Asia
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20690421T101108
+UID:2069-04-21-10:11:08-partial-solar
+DTSTART:20690421T101108
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Europe\, Asia\, n Africa\,
+  N. America
+SUMMARY:partial solar Eclipse
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20240408T181829
+UID:2024-04-08-18:18:29-total-solar
+DTSTART:20240408T181829
+DESCRIPTION:Type: total solar Eclipse\nRegion: N. America\, C. America [Tot
+ al: Mexico\, c US\, e Canada]\nCountries: Mexico\, US\, Canada
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20350309T230553
+UID:2035-03-09-23:05:53-annular-solar
+DTSTART:20350309T230553
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Australia\, New Zealand\, 
+ s Pacific\, Mexico\, Antarctica [Annular: New Zealand\, Pacific]\nCountrie
+ s: New Zealand\, Mexico
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20520330T183152
+UID:2052-03-30-18:31:52-total-solar
+DTSTART:20520330T183152
+DESCRIPTION:Type: total solar Eclipse\nRegion: N. America\, C. America\, n 
+ S. America [Total: Central Pacific\, Mexico\, U.S.\, Central Atlantic]\nCo
+ untries: Mexico\, US
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20550127T175405
+UID:2055-01-27-17:54:05-partial-solar
+DTSTART:20550127T175405
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Canada\, U.S.\, Mexico\, C
+ uba\nCountries: Canada\, US\, Mexico\, Cuba
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20560116T221645
+UID:2056-01-16-22:16:45-annular-solar
+DTSTART:20560116T221645
+DESCRIPTION:Type: annular solar Eclipse\nRegion: N.Z.\, Central Pacific\, W
+ estern North America [Annular: Central Pacific\, Mexico]\nCountries: New Z
+ ealand\, Mexico
+SUMMARY:annular solar Eclipse
+END:VEVENT
+END:VCALENDAR

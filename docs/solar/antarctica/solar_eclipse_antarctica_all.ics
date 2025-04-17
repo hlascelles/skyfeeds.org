@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20211204T073438
+UID:2021-12-04-07:34:38-total-solar
+DTSTART:20211204T073438
+DESCRIPTION:Type: total solar Eclipse\nRegion: Antarctica\, S. Africa\, s A
+ tlantic [Total: Antarctica]\nCountries: Antarctica
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250921T194304
+UID:2025-09-21-19:43:04-partial-solar
+DTSTART:20250921T194304
+DESCRIPTION:Type: partial solar Eclipse\nRegion: s Pacific\, N.Z.\, Antarct
+ ica\nCountries: New Zealand\, Antarctica
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T121305
+UID:2026-02-17-12:13:05-annular-solar
+DTSTART:20260217T121305
+DESCRIPTION:Type: annular solar Eclipse\nRegion: s Argentina & Chile\, s Af
+ rica\, Antarctica [Annular: Antarctica]\nCountries: Argentina\, Chile\, An
+ tarctica
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20270206T160047
+UID:2027-02-06-16:00:47-annular-solar
+DTSTART:20270206T160047
+DESCRIPTION:Type: annular solar Eclipse\nRegion: S. America\, Antarctica\, 
+ w & s Africa [Annular: Chile\, Argentina\, Atlantic]\nCountries: Chile\, A
+ rgentina
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20291205T150357
+UID:2029-12-05-15:03:57-partial-solar
+DTSTART:20291205T150357
+DESCRIPTION:Type: partial solar Eclipse\nRegion: s Argentina\, s Chile\, An
+ tarctica\nCountries: Argentina\, Chile\, Antarctica
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20301125T065137
+UID:2030-11-25-06:51:37-total-solar
+DTSTART:20301125T065137
+DESCRIPTION:Type: total solar Eclipse\nRegion: s Africa\, s Indian Oc.\, E.
+  Indies\, Australia\, Antarctica [Total: Botswana\, S. Africa\, Australia]
+ \nCountries: Botswana\, South Africa\, Australia
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20330923T135431
+UID:2033-09-23-13:54:31-partial-solar
+DTSTART:20330923T135431
+DESCRIPTION:Type: partial solar Eclipse\nRegion: s S. America\, Antarctica
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20350309T230553
+UID:2035-03-09-23:05:53-annular-solar
+DTSTART:20350309T230553
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Australia\, New Zealand\, 
+ s Pacific\, Mexico\, Antarctica [Annular: New Zealand\, Pacific]\nCountrie
+ s: New Zealand\, Mexico
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20360227T044649
+UID:2036-02-27-04:46:49-partial-solar
+DTSTART:20360227T044649
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Antarctica\, s Australia\,
+  New Zealand\nCountries: Antarctica\, Australia\, New Zealand
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20381226T010010
+UID:2038-12-26-01:00:10-total-solar
+DTSTART:20381226T010010
+DESCRIPTION:Type: total solar Eclipse\nRegion: se Asia\, E. Indies\, Austra
+ lia\, New Zealand\, s Pacific\, Antarctica [Total: Australia\, New Zealand
+ \, s Pacific]\nCountries: Australia\, New Zealand
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20391215T162346
+UID:2039-12-15-16:23:46-total-solar
+DTSTART:20391215T162346
+DESCRIPTION:Type: total solar Eclipse\nRegion: s S. America\, Antarctica [T
+ otal: Antarctica]\nCountries: Antarctica
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20400511T034302
+UID:2040-05-11-03:43:02-partial-solar
+DTSTART:20400511T034302
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Australia\, N.Z.\, Antarct
+ ica\nCountries: Australia\, New Zealand\, Antarctica
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20421014T020041
+UID:2042-10-14-02:00:41-annular-solar
+DTSTART:20421014T020041
+DESCRIPTION:Type: annular solar Eclipse\nRegion: se Asia\, E. Indies\, Aust
+ ralia\, \, s Pacific\, Antarctica [Annular: Thailand\, Malaysia\, Indonesi
+ a\, Australia\, New Zealand]\nCountries: Thailand\, Malaysia\, Indonesia\,
+  Australia\, New Zealand
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20431003T030148
+UID:2043-10-03-03:01:48-annular-solar
+DTSTART:20431003T030148
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Antarctica\, sw Australia\
+ , Indian Ocean [Annular: s Indian Ocean]\nCountries: Australia
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20440228T202439
+UID:2044-02-28-20:24:39-annular-solar
+DTSTART:20440228T202439
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Antarctica\, S. America [A
+ nnular: s Atlantic]
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20471216T235012
+UID:2047-12-16-23:50:12-partial-solar
+DTSTART:20471216T235012
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Antarctica\, s Chile\, s A
+ rgentina\nCountries: Antarctica\, Chile\, Argentina
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20511004T210214
+UID:2051-10-04-21:02:14-partial-solar
+DTSTART:20511004T210214
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Antarctica\, Australia\, N
+ ew Zealand\nCountries: Antarctica\, Australia\, New Zealand
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20520922T233909
+UID:2052-09-22-23:39:09-annular-solar
+DTSTART:20520922T233909
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Australia\, N.Z.\, Antarct
+ ica\, w Indies [Annular: Australia\, South Pacific]\nCountries: Australia\
+ , New Zealand
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20530320T070819
+UID:2053-03-20-07:08:19-annular-solar
+DTSTART:20530320T070819
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, Indies\, Australi
+ a\, Antarctica [Annular: Central Indian\, Indonesia]\nCountries: Indonesia
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20540309T123340
+UID:2054-03-09-12:33:40-partial-solar
+DTSTART:20540309T123340
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Antarctica\, South Africa\
+ , Madagascar\, Chile\nCountries: Antarctica\, South Africa\, Madagascar\, 
+ Chile
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20540803T180401
+UID:2054-08-03-18:04:01-partial-solar
+DTSTART:20540803T180401
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Antarctica\nCountries: Ant
+ arctica
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20550724T095749
+UID:2055-07-24-09:57:49-total-solar
+DTSTART:20550724T095749
+DESCRIPTION:Type: total solar Eclipse\nRegion: Africa\, Antarctica [Total: 
+ South Africa]\nCountries: South Africa\, Antarctica
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20570105T094751
+UID:2057-01-05-09:47:51-total-solar
+DTSTART:20570105T094751
+DESCRIPTION:Type: total solar Eclipse\nRegion: Africa\, Antarctica\, Austra
+ lia [Total: Southern Atlantic\, Southern Indian]\nCountries: Australia
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20571226T011435
+UID:2057-12-26-01:14:35-total-solar
+DTSTART:20571226T011435
+DESCRIPTION:Type: total solar Eclipse\nRegion: Antarctica\, Australia [Tota
+ l: Antarctica]\nCountries: Antarctica\, Australia
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20601024T092410
+UID:2060-10-24-09:24:10-annular-solar
+DTSTART:20601024T092410
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, Antarctica\, S. A
+ merica [Annular: Guinea\, Sierra Leone\, Liberia\, Ivory Coast\, Angola\, 
+ Nambia\, Botswana\, South Africa]\nCountries: Guinea\, Sierra Leone\, Libe
+ ria\, Ivory Coast\, Angola\, Namibia\, Botswana\, South Africa
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20611013T103209
+UID:2061-10-13-10:32:09-annular-solar
+DTSTART:20611013T103209
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Antarctica\, S. America [A
+ nnular: Antarctica\, Argentina\, Chile]\nCountries: Antarctica\, Argentina
+ \, Chile
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20620311T042615
+UID:2062-03-11-04:26:15-partial-solar
+DTSTART:20620311T042615
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Antarctica\, Australia\, N
+ ew Zealand\nCountries: Antarctica\, Australia\, New Zealand
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20630228T074329
+UID:2063-02-28-07:43:29-annular-solar
+DTSTART:20630228T074329
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, Indies\, se Asia\
+ , Antarctica\, Australia [Annular: Indian Ocean\, Indonesia\, Malaysia]\nC
+ ountries: Indonesia\, Malaysia
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20640812T174605
+UID:2064-08-12-17:46:05-total-solar
+DTSTART:20640812T174605
+DESCRIPTION:Type: total solar Eclipse\nRegion: Americas\, Antarctica [Total
+ : Central Pacific\, Chile\, Argentina]\nCountries: Chile\, Argentina
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20650802T053416
+UID:2065-08-02-05:34:16-partial-solar
+DTSTART:20650802T053416
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Antarctica\, South Africa\
+ , Madagascar\nCountries: Antarctica\, South Africa\, Madagascar
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20651227T083955
+UID:2065-12-27-08:39:55-partial-solar
+DTSTART:20651227T083955
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Chile Argentina\, Antarcti
+ ca\, Australia\nCountries: Chile\, Argentina\, Antarctica\, Australia
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20661217T002339
+UID:2066-12-17-00:23:39-total-solar
+DTSTART:20661217T002339
+DESCRIPTION:Type: total solar Eclipse\nRegion: Australia\, Antarctica\, N.Z
+ . [Total: Australia\, New Zealand\, South Pacific]\nCountries: Australia\,
+  New Zealand
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20680531T035639
+UID:2068-05-31-03:56:39-total-solar
+DTSTART:20680531T035639
+DESCRIPTION:Type: total solar Eclipse\nRegion: Indies\, Australia\, Antarct
+ ica [Total: Australia\, New Zealand]\nCountries: Australia\, New Zealand
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20690520T175317
+UID:2069-05-20-17:53:17-partial-solar
+DTSTART:20690520T175317
+DESCRIPTION:Type: partial solar Eclipse\nRegion: South America\, Antarctica
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20691015T041956
+UID:2069-10-15-04:19:56-partial-solar
+DTSTART:20691015T041956
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Antarctica\nCountries: Ant
+ arctica
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20701004T070856
+UID:2070-10-04-07:08:56-annular-solar
+DTSTART:20701004T070856
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, Antarctica\, Aust
+ ralia [Annular: Angola\, Zambia\, Zimbabwe\, Mozambique\, Madagascar]\nCou
+ ntries: Angola\, Zambia\, Zimbabwe\, Mozambique\, Madagascar
+SUMMARY:annular solar Eclipse
+END:VEVENT
+END:VCALENDAR

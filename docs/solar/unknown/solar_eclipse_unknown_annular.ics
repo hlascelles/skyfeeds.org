@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20231014T180040
+UID:2023-10-14-18:00:40-annular-solar
+DTSTART:20231014T180040
+DESCRIPTION:Type: annular solar Eclipse\nRegion: N. America\, C. America\, 
+ S. America [Annular: w US\, C. America\, Colombia\, Brazil]\nCountries: US
+ \, Colombia\, Brazil
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20340912T161927
+UID:2034-09-12-16:19:27-annular-solar
+DTSTART:20340912T161927
+DESCRIPTION:Type: annular solar Eclipse\nRegion: C. America\, S. America [A
+ nnular: Chile\, Bolivia\, Argentina\, Paraguay\, Brazil]\nCountries: Chile
+ \, Bolivia\, Argentina\, Paraguay\, Brazil
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20460205T230626
+UID:2046-02-05-23:06:26-annular-solar
+DTSTART:20460205T230626
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Australia\, Papua New Guin
+ ea\, w US [Annular: Papua New Guinea\, Hawaii\, California\, Oregon\, Idah
+ o]\nCountries: Australia\, Papua New Guinea\, US
+SUMMARY:annular solar Eclipse
+END:VEVENT
+END:VCALENDAR
