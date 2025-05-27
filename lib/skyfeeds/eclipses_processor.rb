@@ -85,7 +85,7 @@ module Skyfeeds
       countries.each do |country|
         next if country.nil? || country.empty?
 
-        country_str = country.downcase.gsub(" ", "_")
+        country_str = country.downcase.tr(" ", "_")
 
         # Create country directory
         FileUtils.mkdir_p("#{OUTPUT_DIR}/solar/#{country_str}") # Get total and annular eclipses for this country
@@ -132,7 +132,7 @@ module Skyfeeds
         event.summary = "#{eclipse.type} #{eclipse.category} Eclipse"
 
         # Create a UID without spaces
-        event.uid = "#{date_str}-#{time_str}-#{eclipse.type}-#{eclipse.category}".downcase.gsub(
+        event.uid = "#{date_str}-#{time_str}-#{eclipse.type}-#{eclipse.category}".downcase.tr(
           " ", "_"
         )
 

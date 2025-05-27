@@ -142,7 +142,7 @@
         <ul>
           <% countries = solar_eclipses.flat_map(&:countries).uniq.sort %>
           <% countries.each do |country| %>
-            <li><a href="#<%= country.downcase.gsub(' ', '_') %>"><%= country %></a></li>
+            <li><a href="#<%= country.downcase.tr(' ', '_') %>"><%= country %></a></li>
           <% end %>
         </ul>
       </div>
@@ -180,7 +180,7 @@
             <td><%= eclipse.type %></td>
             <td>
               <% eclipse.countries.each do |country| %>
-                <a href="#<%= country.downcase.gsub(' ', '_') %>"><%= country %></a>
+                <a href="#<%= country.downcase.tr(' ', '_') %>"><%= country %></a>
                 <% if country != eclipse.countries.last %>,
                 <% end %>
               <% end %>
@@ -194,9 +194,9 @@
     <!-- Tables by country -->
     <h2 class="mt-5">Solar Eclipses by Country</h2>
     <% countries.each do |country| %>
-      <h3 id="<%= country.downcase.gsub(' ', '_') %>"><%= country %></h3>
+      <h3 id="<%= country.downcase.tr(' ', '_') %>"><%= country %></h3>
       <div class="mb-2">
-        <% country_str = country.downcase.gsub(' ', '_') %>
+        <% country_str = country.downcase.tr(' ', '_') %>
         <% special_eclipses = solar_eclipses.select { |e| e.countries.include?(country) && (e.type.totalish?) } %>
         <% if special_eclipses.any? %>
           <a href="solar/<%= country_str %>/solar_eclipse_<%= country_str %>_total.ics" class="btn-ical" target="_blank">

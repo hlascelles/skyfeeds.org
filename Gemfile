@@ -5,12 +5,22 @@ gem "csv"
 gem "erubis"
 gem "icalendar"
 gem "nokogiri"
-gem "pry-byebug"
-gem "psych", "5.2.2"
 gem "rake"
 gem "require_all"
 gem "rspec"
-gem "rubocop"
-gem "rubocop-rake"
-gem "rubocop-rspec"
 gem "sorbet-runtime"
+
+group :development, :test do
+  gem "fasterer"
+  gem "pry-byebug"
+  gem "rake"
+  gem "reek"
+  gem "rspec"
+  gem "rubocop"
+  gem "rubocop-magic_numbers"
+  gem "rubocop-performance"
+  gem "rubocop-rails"
+  gem "rubocop-rake", "> 0.7.0" # as plugin
+  gem "rubocop-rspec", "> 3.5.0" # as plugin
+  gem "rubocop-thread_safety"
+end
