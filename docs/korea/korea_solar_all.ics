@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20350902T015646
+UID:2035-09-02-01:56:46-total-solar
+DTSTART:20350902T015646
+DESCRIPTION:Type: total solar Eclipse\nRegion: e Asia\, Pacific [Total: Chi
+ na\, Korea\, Japan\, Pacific]\nCountries: China\, Korea\, Japan
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20411025T013621
+UID:2041-10-25-01:36:21-annular-solar
+DTSTART:20411025T013621
+DESCRIPTION:Type: annular solar Eclipse\nRegion: e Asia\, Pacific [Annular:
+  Mongolia\, China\, Korea\, Japan\, Pacific]\nCountries: Mongolia\, China\
+ , Korea\, Japan
+SUMMARY:annular solar Eclipse
+END:VEVENT
+END:VCALENDAR

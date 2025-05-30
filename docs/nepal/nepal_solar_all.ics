@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20640217T070023
+UID:2064-02-17-07:00:23-annular-solar
+DTSTART:20640217T070023
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, Asia [Annular: Za
+ ire\, Zambia\, Tanzania\, India\, Nepal\, Bangladesh\, Bhutan\, China]\nCo
+ untries: Democratic Republic of Congo\, Zambia\, Tanzania\, India\, Nepal\
+ , Bangladesh\, Bhutan\, China
+SUMMARY:annular solar Eclipse
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20210610T104306
+UID:2021-06-10-10:43:06-annular-solar
+DTSTART:20210610T104306
+DESCRIPTION:Type: annular solar Eclipse\nRegion: n N. America\, Europe\, As
+ ia [Annular: n Canada\, Greenland\, Russia]\nCountries: Canada\, Greenland
+ \, Russia
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T174705
+UID:2026-08-12-17:47:05-total-solar
+DTSTART:20260812T174705
+DESCRIPTION:Type: total solar Eclipse\nRegion: n N. America\, w Africa\, Eu
+ rope [Total: Arctic\, Greenland\, Iceland\, Spain]\nCountries: Greenland\,
+  Iceland\, Spain
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20440823T011701
+UID:2044-08-23-01:17:01-total-solar
+DTSTART:20440823T011701
+DESCRIPTION:Type: total solar Eclipse\nRegion: n Asia\, w N. America\, Gree
+ nland [Total: Greenland\, n Canada\, Montana\, N. Dakota]\nCountries: Gree
+ nland\, Canada\, US
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20470623T105230
+UID:2047-06-23-10:52:30-partial-solar
+DTSTART:20470623T105230
+DESCRIPTION:Type: partial solar Eclipse\nRegion: n Canada\, Greenland\, ne 
+ Asia\nCountries: Canada\, Greenland\, Russia
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20480611T125852
+UID:2048-06-11-12:58:52-annular-solar
+DTSTART:20480611T125852
+DESCRIPTION:Type: annular solar Eclipse\nRegion: N. America\, Caribbean\, n
+  Africa\, Europe\, w Asia [Annular: midwest US\, Quebec\, Ontario\, Greenl
+ and\, Iceland\, Norway\, Sweden\, Russia\, Afganistan]\nCountries: US\, Ca
+ nada\, Greenland\, Iceland\, Norway\, Sweden\, Russia\, Afghanistan
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20510411T021038
+UID:2051-04-11-02:10:38-partial-solar
+DTSTART:20510411T021038
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Asia\, Alaska\, Canada\, G
+ reenland\nCountries: Canada\, Greenland
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20540902T010933
+UID:2054-09-02-01:09:33-partial-solar
+DTSTART:20540902T010933
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Asia\, U.S.\, Canada\, Gre
+ enland\nCountries: US\, Canada\, Greenland
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20580621T001934
+UID:2058-06-21-00:19:34-partial-solar
+DTSTART:20580621T001934
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Russia\, Greenland\, Norwa
+ y\, Sweden\, Finland\nCountries: Russia\, Greenland\, Norway\, Sweden\, Fi
+ nland
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20620903T085426
+UID:2062-09-03-08:54:26-partial-solar
+DTSTART:20620903T085426
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Greenland\, Europe\, Asia\
+ nCountries: Greenland
+SUMMARY:partial solar Eclipse
+END:VEVENT
+END:VCALENDAR

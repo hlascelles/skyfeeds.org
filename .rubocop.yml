@@ -1,0 +1,6 @@
+inherit_from:
+- .rubocop-global.yml
+- .rubocop-project.yml
+
+AllCops:
+  TargetRubyVersion: 3.2

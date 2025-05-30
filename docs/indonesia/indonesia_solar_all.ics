@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230420T041755
+UID:2023-04-20-04:17:55-hybrid-solar
+DTSTART:20230420T041755
+DESCRIPTION:Type: hybrid solar Eclipse\nRegion: se Asia\, E. Indies\, Austr
+ alia\, Philippines. N.Z. [Hybrid: Indonesia\, Australia\, Papua New Guinea
+ ]\nCountries: Indonesia\, Australia\, Papua New Guinea
+SUMMARY:hybrid solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20310521T071604
+UID:2031-05-21-07:16:04-annular-solar
+DTSTART:20310521T071604
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, s Asia\, E. Indie
+ s\, Australia [Annular: Angola\, Congo\, Zambia\, Tanzania\, s. India\, Ma
+ laysia\, Indonesia]\nCountries: Angola\, Congo\, Zambia\, Tanzania\, India
+ \, Malaysia\, Indonesia
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20420420T021730
+UID:2042-04-20-02:17:30-total-solar
+DTSTART:20420420T021730
+DESCRIPTION:Type: total solar Eclipse\nRegion: e Asia\, se Asia\, Australia
+ \, Pacific [Total: Malaysia\, Indondesia\, Philippines\, n Pacific]\nCount
+ ries: Malaysia\, Indonesia\, Philippines
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20421014T020041
+UID:2042-10-14-02:00:41-annular-solar
+DTSTART:20421014T020041
+DESCRIPTION:Type: annular solar Eclipse\nRegion: se Asia\, E. Indies\, Aust
+ ralia\, \, s Pacific\, Antarctica [Annular: Thailand\, Malaysia\, Indonesi
+ a\, Australia\, New Zealand]\nCountries: Thailand\, Malaysia\, Indonesia\,
+  Australia\, New Zealand
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20491125T053347
+UID:2049-11-25-05:33:47-hybrid-solar
+DTSTART:20491125T053347
+DESCRIPTION:Type: hybrid solar Eclipse\nRegion: e Africa\, s Asia\, East In
+ dies\, Australia [Hybrid: Saudi Arabia\, Yemen\, Malaysia\, Indonesia]\nCo
+ untries: Saudi Arabia\, Yemen\, Malaysia\, Indonesia
+SUMMARY:hybrid solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20530320T070819
+UID:2053-03-20-07:08:19-annular-solar
+DTSTART:20530320T070819
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, Indies\, Australi
+ a\, Antarctica [Annular: Central Indian\, Indonesia]\nCountries: Indonesia
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20530912T093409
+UID:2053-09-12-09:34:09-total-solar
+DTSTART:20530912T093409
+DESCRIPTION:Type: total solar Eclipse\nRegion: Greenland\, Africa\, Europe\
+ , Asia [Total: Morocco\, Algeria\, Tunisia\, Libya\, Egypt. Saudi Arabia\,
+  Indonesia]\nCountries: Morocco\, Algeria\, Tunisia\, Libya\, Egypt\, Saud
+ i Arabia\, Indonesia
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20591105T091814
+UID:2059-11-05-09:18:14-annular-solar
+DTSTART:20591105T091814
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, Europe\, Asia [An
+ nular: France\, Libya\, Egypt\, Sudan\, Ethiopia\, Eritrea\, Somalia\, Ind
+ onesia]\nCountries: France\, Libya\, Egypt\, Sudan\, Ethiopia\, Eritrea\, 
+ Somalia\, Indonesia
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20630228T074329
+UID:2063-02-28-07:43:29-annular-solar
+DTSTART:20630228T074329
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, Indies\, se Asia\
+ , Antarctica\, Australia [Annular: Indian Ocean\, Indonesia\, Malaysia]\nC
+ ountries: Indonesia\, Malaysia
+SUMMARY:annular solar Eclipse
+END:VEVENT
+END:VCALENDAR

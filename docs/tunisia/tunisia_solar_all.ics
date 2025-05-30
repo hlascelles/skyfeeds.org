@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20300601T062913
+UID:2030-06-01-06:29:13-annular-solar
+DTSTART:20300601T062913
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Europe\, n Africa\, Mid Ea
+ st\, Asia\, Arctic\, Alaska [Annular: Algeria\, Tunisia\, Greece\, Turkey\
+ , Russia\, n. China\, Japan]\nCountries: Algeria\, Tunisia\, Greece\, Turk
+ ey\, Russia\, China\, Japan
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20530912T093409
+UID:2053-09-12-09:34:09-total-solar
+DTSTART:20530912T093409
+DESCRIPTION:Type: total solar Eclipse\nRegion: Greenland\, Africa\, Europe\
+ , Asia [Total: Morocco\, Algeria\, Tunisia\, Libya\, Egypt. Saudi Arabia\,
+  Indonesia]\nCountries: Morocco\, Algeria\, Tunisia\, Libya\, Egypt\, Saud
+ i Arabia\, Indonesia
+SUMMARY:total solar Eclipse
+END:VEVENT
+END:VCALENDAR

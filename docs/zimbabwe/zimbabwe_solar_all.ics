@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20701004T070856
+UID:2070-10-04-07:08:56-annular-solar
+DTSTART:20701004T070856
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, Antarctica\, Aust
+ ralia [Annular: Angola\, Zambia\, Zimbabwe\, Mozambique\, Madagascar]\nCou
+ ntries: Angola\, Zambia\, Zimbabwe\, Mozambique\, Madagascar
+SUMMARY:annular solar Eclipse
+END:VEVENT
+END:VCALENDAR

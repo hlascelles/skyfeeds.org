@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20380105T134710
+UID:2038-01-05-13:47:10-annular-solar
+DTSTART:20380105T134710
+DESCRIPTION:Type: annular solar Eclipse\nRegion: e N. America\, n S. Americ
+ a\, Atlantic\, Africa\, Europe [Annular: Cuba\, Dom.Rep.\, Cote d'Ivoire\,
+  Ghana\, Niger\, Chad\, Egypt]\nCountries: Cuba\, Dominican Republic\, Cot
+ e d'Ivoire\, Ghana\, Niger\, Chad\, Egypt
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20450812T174239
+UID:2045-08-12-17:42:39-total-solar
+DTSTART:20450812T174239
+DESCRIPTION:Type: total solar Eclipse\nRegion: N. & C. America\, S. America
+ \, w Africa [Total: s US\, Haiti\, Dominican Rep.\, Venezuela\, Guyana\, F
+ r. Guyana\, Suriname\, Brazil]\nCountries: US\, Haiti\, Dominican Republic
+ \, Venezuela\, Guyana\, French Guiana\, Suriname\, Brazil
+SUMMARY:total solar Eclipse
+END:VEVENT
+END:VCALENDAR

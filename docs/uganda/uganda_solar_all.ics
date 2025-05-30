@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20410430T115220
+UID:2041-04-30-11:52:20-total-solar
+DTSTART:20410430T115220
+DESCRIPTION:Type: total solar Eclipse\nRegion: Brazil\, Africa\, Mid East [
+ Total: Angola\, Congo\, Uganda\, Kenya\, Somalia]\nCountries: Brazil\, Ang
+ ola\, Congo\, Uganda\, Kenya\, Somalia
+SUMMARY:total solar Eclipse
+END:VEVENT
+END:VCALENDAR

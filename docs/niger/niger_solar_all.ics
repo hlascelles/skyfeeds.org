@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20380105T134710
+UID:2038-01-05-13:47:10-annular-solar
+DTSTART:20380105T134710
+DESCRIPTION:Type: annular solar Eclipse\nRegion: e N. America\, n S. Americ
+ a\, Atlantic\, Africa\, Europe [Annular: Cuba\, Dom.Rep.\, Cote d'Ivoire\,
+  Ghana\, Niger\, Chad\, Egypt]\nCountries: Cuba\, Dominican Republic\, Cot
+ e d'Ivoire\, Ghana\, Niger\, Chad\, Egypt
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20380702T133254
+UID:2038-07-02-13:32:54-annular-solar
+DTSTART:20380702T133254
+DESCRIPTION:Type: annular solar Eclipse\nRegion: N. & C. America\, S. Ameri
+ ca\, Africa\, Europe\, Mid East [Annular: Colombia\, Venezuela\, Mauritani
+ a\, Morocco\, Mali\, Niger\, Chad\, Sudan\, Ethiopia\, Kenya]\nCountries: 
+ Colombia\, Venezuela\, Mauritania\, Morocco\, Mali\, Niger\, Chad\, Sudan\
+ , Ethiopia\, Kenya
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20600430T100959
+UID:2060-04-30-10:09:59-total-solar
+DTSTART:20600430T100959
+DESCRIPTION:Type: total solar Eclipse\nRegion: Africa\, Asia [Total: Ivory 
+ Coast\, Ghana\, Togo\, Benin\, Nigeria\, Niger\, Chad\, Libya\, Egypt\, Tu
+ rkey\, Kazakhstan\, Russia]\nCountries: Ivory Coast\, Ghana\, Togo\, Benin
+ \, Nigeria\, Niger\, Chad\, Libya\, Egypt\, Turkey\, Kazakhstan\, Russia
+SUMMARY:total solar Eclipse
+END:VEVENT
+END:VCALENDAR

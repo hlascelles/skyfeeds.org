@@ -1,0 +1,233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20241002T184613
+UID:2024-10-02-18:46:13-annular-solar
+DTSTART:20241002T184613
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Pacific\, s S. America [An
+ nular: s Chile\, s Argentina]\nCountries: Chile\, Argentina
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T121305
+UID:2026-02-17-12:13:05-annular-solar
+DTSTART:20260217T121305
+DESCRIPTION:Type: annular solar Eclipse\nRegion: s Argentina & Chile\, s Af
+ rica\, Antarctica [Annular: Antarctica]\nCountries: Argentina\, Chile\, An
+ tarctica
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20270206T160047
+UID:2027-02-06-16:00:47-annular-solar
+DTSTART:20270206T160047
+DESCRIPTION:Type: annular solar Eclipse\nRegion: S. America\, Antarctica\, 
+ w & s Africa [Annular: Chile\, Argentina\, Atlantic]\nCountries: Chile\, A
+ rgentina
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20290711T153718
+UID:2029-07-11-15:37:18-partial-solar
+DTSTART:20290711T153718
+DESCRIPTION:Type: partial solar Eclipse\nRegion: s Chile\, s Argentina\nCou
+ ntries: Chile\, Argentina
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20291205T150357
+UID:2029-12-05-15:03:57-partial-solar
+DTSTART:20291205T150357
+DESCRIPTION:Type: partial solar Eclipse\nRegion: s Argentina\, s Chile\, An
+ tarctica\nCountries: Argentina\, Chile\, Antarctica
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20340912T161927
+UID:2034-09-12-16:19:27-annular-solar
+DTSTART:20340912T161927
+DESCRIPTION:Type: annular solar Eclipse\nRegion: C. America\, S. America [A
+ nnular: Chile\, Bolivia\, Argentina\, Paraguay\, Brazil]\nCountries: Chile
+ \, Bolivia\, Argentina\, Paraguay\, Brazil
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20471216T235012
+UID:2047-12-16-23:50:12-partial-solar
+DTSTART:20471216T235012
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Antarctica\, s Chile\, s A
+ rgentina\nCountries: Antarctica\, Chile\, Argentina
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20481205T153527
+UID:2048-12-05-15:35:27-total-solar
+DTSTART:20481205T153527
+DESCRIPTION:Type: total solar Eclipse\nRegion: s S. America\, sw Africa [To
+ tal: Chile\, Argentina\, Namibia\, Botswana]\nCountries: Chile\, Argentina
+ \, Namibia\, Botswana
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20540309T123340
+UID:2054-03-09-12:33:40-partial-solar
+DTSTART:20540309T123340
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Antarctica\, South Africa\
+ , Madagascar\, Chile\nCountries: Antarctica\, South Africa\, Madagascar\, 
+ Chile
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20611013T103209
+UID:2061-10-13-10:32:09-annular-solar
+DTSTART:20611013T103209
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Antarctica\, S. America [A
+ nnular: Antarctica\, Argentina\, Chile]\nCountries: Antarctica\, Argentina
+ \, Chile
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20640812T174605
+UID:2064-08-12-17:46:05-total-solar
+DTSTART:20640812T174605
+DESCRIPTION:Type: total solar Eclipse\nRegion: Americas\, Antarctica [Total
+ : Central Pacific\, Chile\, Argentina]\nCountries: Chile\, Argentina
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20651227T083955
+UID:2065-12-27-08:39:55-partial-solar
+DTSTART:20651227T083955
+DESCRIPTION:Type: partial solar Eclipse\nRegion: Chile Argentina\, Antarcti
+ ca\, Australia\nCountries: Chile\, Argentina\, Antarctica\, Australia
+SUMMARY:partial solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250907T000000
+UID:2025-09-07-00:00:00-total-lunar
+DTSTART:20250907T000000
+DESCRIPTION:Type: total lunar Eclipse\nRegion: Global
+SUMMARY:total lunar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260303T000000
+UID:2026-03-03-00:00:00-total-lunar
+DTSTART:20260303T000000
+DESCRIPTION:Type: total lunar Eclipse\nRegion: Global
+SUMMARY:total lunar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T000000
+UID:2026-08-28-00:00:00-partial-lunar
+DTSTART:20260828T000000
+DESCRIPTION:Type: partial lunar Eclipse\nRegion: Global
+SUMMARY:partial lunar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20270220T000000
+UID:2027-02-20-00:00:00-penumbral-lunar
+DTSTART:20270220T000000
+DESCRIPTION:Type: penumbral lunar Eclipse\nRegion: Global
+SUMMARY:penumbral lunar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20270817T000000
+UID:2027-08-17-00:00:00-penumbral-lunar
+DTSTART:20270817T000000
+DESCRIPTION:Type: penumbral lunar Eclipse\nRegion: Global
+SUMMARY:penumbral lunar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20280112T000000
+UID:2028-01-12-00:00:00-partial-lunar
+DTSTART:20280112T000000
+DESCRIPTION:Type: partial lunar Eclipse\nRegion: Global
+SUMMARY:partial lunar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20280706T000000
+UID:2028-07-06-00:00:00-partial-lunar
+DTSTART:20280706T000000
+DESCRIPTION:Type: partial lunar Eclipse\nRegion: Global
+SUMMARY:partial lunar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20281231T000000
+UID:2028-12-31-00:00:00-total-lunar
+DTSTART:20281231T000000
+DESCRIPTION:Type: total lunar Eclipse\nRegion: Global
+SUMMARY:total lunar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20290626T000000
+UID:2029-06-26-00:00:00-total-lunar
+DTSTART:20290626T000000
+DESCRIPTION:Type: total lunar Eclipse\nRegion: Global
+SUMMARY:total lunar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20291220T000000
+UID:2029-12-20-00:00:00-total-lunar
+DTSTART:20291220T000000
+DESCRIPTION:Type: total lunar Eclipse\nRegion: Global
+SUMMARY:total lunar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20300615T000000
+UID:2030-06-15-00:00:00-partial-lunar
+DTSTART:20300615T000000
+DESCRIPTION:Type: partial lunar Eclipse\nRegion: Global
+SUMMARY:partial lunar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20301209T000000
+UID:2030-12-09-00:00:00-penumbral-lunar
+DTSTART:20301209T000000
+DESCRIPTION:Type: penumbral lunar Eclipse\nRegion: Global
+SUMMARY:penumbral lunar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20310507T000000
+UID:2031-05-07-00:00:00-penumbral-lunar
+DTSTART:20310507T000000
+DESCRIPTION:Type: penumbral lunar Eclipse\nRegion: Global
+SUMMARY:penumbral lunar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20310605T000000
+UID:2031-06-05-00:00:00-penumbral-lunar
+DTSTART:20310605T000000
+DESCRIPTION:Type: penumbral lunar Eclipse\nRegion: Global
+SUMMARY:penumbral lunar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20311030T000000
+UID:2031-10-30-00:00:00-penumbral-lunar
+DTSTART:20311030T000000
+DESCRIPTION:Type: penumbral lunar Eclipse\nRegion: Global
+SUMMARY:penumbral lunar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20320425T000000
+UID:2032-04-25-00:00:00-total-lunar
+DTSTART:20320425T000000
+DESCRIPTION:Type: total lunar Eclipse\nRegion: Global
+SUMMARY:total lunar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20321018T000000
+UID:2032-10-18-00:00:00-total-lunar
+DTSTART:20321018T000000
+DESCRIPTION:Type: total lunar Eclipse\nRegion: Global
+SUMMARY:total lunar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20330414T000000
+UID:2033-04-14-00:00:00-total-lunar
+DTSTART:20330414T000000
+DESCRIPTION:Type: total lunar Eclipse\nRegion: Global
+SUMMARY:total lunar Eclipse
+END:VEVENT
+END:VCALENDAR

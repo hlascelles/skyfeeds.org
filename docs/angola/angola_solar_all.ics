@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20310521T071604
+UID:2031-05-21-07:16:04-annular-solar
+DTSTART:20310521T071604
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, s Asia\, E. Indie
+ s\, Australia [Annular: Angola\, Congo\, Zambia\, Tanzania\, s. India\, Ma
+ laysia\, Indonesia]\nCountries: Angola\, Congo\, Zambia\, Tanzania\, India
+ \, Malaysia\, Indonesia
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20410430T115220
+UID:2041-04-30-11:52:20-total-solar
+DTSTART:20410430T115220
+DESCRIPTION:Type: total solar Eclipse\nRegion: Brazil\, Africa\, Mid East [
+ Total: Angola\, Congo\, Uganda\, Kenya\, Somalia]\nCountries: Brazil\, Ang
+ ola\, Congo\, Uganda\, Kenya\, Somalia
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20460802T102113
+UID:2046-08-02-10:21:13-total-solar
+DTSTART:20460802T102113
+DESCRIPTION:Type: total solar Eclipse\nRegion: Brazil\, Africa [Total: Braz
+ il\, Angola\, e Namibia\, Botswana\, S. Africa\, Swaziland\, s Mozambique]
+ \nCountries: Brazil\, Angola\, Namibia\, Botswana\, South Africa\, Swazila
+ nd\, Mozambique
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20601024T092410
+UID:2060-10-24-09:24:10-annular-solar
+DTSTART:20601024T092410
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, Antarctica\, S. A
+ merica [Annular: Guinea\, Sierra Leone\, Liberia\, Ivory Coast\, Angola\, 
+ Nambia\, Botswana\, South Africa]\nCountries: Guinea\, Sierra Leone\, Libe
+ ria\, Ivory Coast\, Angola\, Namibia\, Botswana\, South Africa
+SUMMARY:annular solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20701004T070856
+UID:2070-10-04-07:08:56-annular-solar
+DTSTART:20701004T070856
+DESCRIPTION:Type: annular solar Eclipse\nRegion: Africa\, Antarctica\, Aust
+ ralia [Annular: Angola\, Zambia\, Zimbabwe\, Mozambique\, Madagascar]\nCou
+ ntries: Angola\, Zambia\, Zimbabwe\, Mozambique\, Madagascar
+SUMMARY:annular solar Eclipse
+END:VEVENT
+END:VCALENDAR

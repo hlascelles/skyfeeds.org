@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20260812T174705
+UID:2026-08-12-17:47:05-total-solar
+DTSTART:20260812T174705
+DESCRIPTION:Type: total solar Eclipse\nRegion: n N. America\, w Africa\, Eu
+ rope [Total: Arctic\, Greenland\, Iceland\, Spain]\nCountries: Greenland\,
+  Iceland\, Spain
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20270802T100749
+UID:2027-08-02-10:07:49-total-solar
+DTSTART:20270802T100749
+DESCRIPTION:Type: total solar Eclipse\nRegion: Africa\, Europe\, Mid East\,
+  w & s Asia [Total:Morocco\, Spain\, Algeria\, Libya\, Egypt\, Saudi Arabi
+ a\, Yemen\, Somalia]\nCountries: Morocco\, Spain\, Algeria\, Libya\, Egypt
+ \, Saudi Arabia\, Yemen\, Somalia
+SUMMARY:total solar Eclipse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20280126T150858
+UID:2028-01-26-15:08:58-annular-solar
+DTSTART:20280126T150858
+DESCRIPTION:Type: annular solar Eclipse\nRegion: e N. America\, C. & S. Ame
+ rica\, w Europe\, nw Africa [Annular: Ecuador\, Peru\, Brazil\, Suriname\,
+  Spain\, Portugal]\nCountries: Ecuador\, Peru\, Brazil\, Suriname\, Spain\
+ , Portugal
+SUMMARY:annular solar Eclipse
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20311114T210730
+UID:2031-11-14-21:07:30-hybrid-solar
+DTSTART:20311114T210730
+DESCRIPTION:Type: hybrid solar Eclipse\nRegion: Pacific\, s US\, C. America
+ \, nw S. America [Hybrid: Pacific\, Panama]\nCountries: US\, Panama
+SUMMARY:hybrid solar Eclipse
+END:VEVENT
+END:VCALENDAR
