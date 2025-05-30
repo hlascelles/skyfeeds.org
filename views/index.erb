@@ -94,7 +94,7 @@
     </p>
     <p>
       Also given are links for "All celestial events" for countries/continents. It is an iCal that
-      has all solar eclipses for that country/continent and all lunar eclipses.
+      has all total solar eclipses for that country/continent and all lunar eclipses.
       If you are unsure what you want, it is probably that for your country.
     </p>
 
@@ -157,8 +157,8 @@
         <a href="<%= continent.downcase.tr(' ', '_') %>/<%= continent.downcase.tr(' ', '_') %>_all.ics" class="btn-ical" target="_blank">
           <%= calendar_icon %> All Celestial Events for <%= continent %>
         </a>
-        <a href="<%= continent.downcase.tr(' ', '_') %>/<%= continent.downcase.tr(' ', '_') %>_solar_all.ics" class="btn-ical" target="_blank">
-          <%= calendar_icon %> All Solar Eclipses for <%= continent %>
+        <a href="<%= continent.downcase.tr(' ', '_') %>/<%= continent.downcase.tr(' ', '_') %>_solar_total.ics" class="btn-ical" target="_blank">
+          <%= calendar_icon %> All Total Solar Eclipses for <%= continent %>
         </a>
       </div>
       <table class="table table-striped mt-3">
@@ -198,8 +198,8 @@
         <a href="<%= country.downcase.tr(' ', '_') %>/<%= country.downcase.tr(' ', '_') %>_all.ics" class="btn-ical" target="_blank">
           <%= calendar_icon %> All Celestial Events for <%= country %>
         </a>
-        <a href="<%= country.downcase.tr(' ', '_') %>/<%= country.downcase.tr(' ', '_') %>_solar_all.ics" class="btn-ical" target="_blank">
-          <%= calendar_icon %> All Solar Eclipses for <%= country %>
+        <a href="<%= country.downcase.tr(' ', '_') %>/<%= country.downcase.tr(' ', '_') %>_solar_total.ics" class="btn-ical" target="_blank">
+          <%= calendar_icon %> All Total Solar Eclipses for <%= country %>
         </a>
       </div>
       <table class="table table-striped mt-3">

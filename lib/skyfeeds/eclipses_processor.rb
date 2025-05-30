@@ -77,7 +77,7 @@ module Skyfeeds
         continent_solar_eclipses = solar_eclipses.select { |e| e.continents&.include?(continent) }
         if continent_solar_eclipses.any?
           generate_ical_file(continent_solar_eclipses,
-                             "#{continent_str}/#{continent_str}_solar_all.ics")
+                             "#{continent_str}/#{continent_str}_solar_total.ics")
         end
 
         # All celestial events: all solar for this continent + all lunar globally
@@ -99,7 +99,7 @@ module Skyfeeds
         # All solar eclipses for this country
         country_solar_eclipses = solar_eclipses.select { |e| e.countries&.include?(country) }
         if country_solar_eclipses.any?
-          generate_ical_file(country_solar_eclipses, "#{country_str}/#{country_str}_solar_all.ics")
+          generate_ical_file(country_solar_eclipses, "#{country_str}/#{country_str}_solar_total.ics")
         end
 
         # All celestial events: all solar for this country + all lunar globally
