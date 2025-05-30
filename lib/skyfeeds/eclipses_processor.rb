@@ -30,6 +30,7 @@ module Skyfeeds
     def self.clean_output_dir
       FileUtils.rm_rf(OUTPUT_DIR)
       FileUtils.mkdir_p(OUTPUT_DIR)
+      FileUtils.cp("views/google_calendar_import.png", OUTPUT_DIR)
     end
 
     def self.run
