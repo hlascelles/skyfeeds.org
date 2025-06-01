@@ -157,7 +157,7 @@ GEM
       sexp_processor (~> 4.16)
     securerandom (0.4.1)
     sexp_processor (4.17.3)
-    sorbet-runtime (0.5.12134)
+    sorbet-runtime (0.5.12142)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     unicode-display_width (3.1.4)
