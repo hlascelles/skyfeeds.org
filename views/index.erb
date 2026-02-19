@@ -78,6 +78,14 @@
       text-transform: capitalize;
     }
 
+    @media (max-width: 767px) {
+      .btn-label-full { display: none; }
+    }
+
+    @media (min-width: 768px) {
+      .btn-label-short { display: none; }
+    }
+
     details.collapsible-panel {
       margin-top: 20px;
       background-color: rgba(255, 255, 255, 0.8);
@@ -210,13 +218,19 @@
     </p>
     <div class="mb-3">
       <a href="all/all_all.ics" class="btn-ical" target="_blank">
-        <%= calendar_icon %> All Solar and Lunar Eclipses
+        <%= calendar_icon %>
+        <span class="btn-label-full">All Solar and Lunar Eclipses</span>
+        <span class="btn-label-short">All Solar+Lunar</span>
       </a>
       <a href="all/all_solar_all.ics" class="btn-ical" target="_blank">
-        <%= calendar_icon %> All Solar Eclipses
+        <%= calendar_icon %>
+        <span class="btn-label-full">All Solar Eclipses</span>
+        <span class="btn-label-short">All Solar</span>
       </a>
       <a href="all/all_lunar_all.ics" class="btn-ical" target="_blank">
-        <%= calendar_icon %> All Lunar Eclipses
+        <%= calendar_icon %>
+        <span class="btn-label-full">All Lunar Eclipses</span>
+        <span class="btn-label-short">All Lunar</span>
       </a>
     </div>
   </div>
@@ -239,8 +253,10 @@
       <span class="summary-title">Lunar Eclipses</span>
       <span class="summary-actions" onclick="event.stopPropagation()">
         <a href="all/all_lunar_all.ics" class="btn-ical" target="_blank">
-          <%= calendar_icon %> All Lunar Eclipses
-        </a>
+            <%= calendar_icon %>
+            <span class="btn-label-full">All Lunar Eclipses</span>
+            <span class="btn-label-short">All</span>
+          </a>
       </span>
     </summary>
     <div class="collapsible-body">
@@ -280,7 +296,9 @@
           <span class="summary-title"><%= continent %></span>
           <span class="summary-actions" onclick="event.stopPropagation()">
             <a href="<%= continent.downcase.tr(' ', '_') %>/<%= continent.downcase.tr(' ', '_') %>_all.ics" class="btn-ical" target="_blank">
-              <%= calendar_icon %> All Celestial Events
+              <%= calendar_icon %>
+              <span class="btn-label-full">All Celestial Events</span>
+              <span class="btn-label-short">All</span>
             </a>
           </span>
         </summary>
@@ -324,7 +342,9 @@
           <span class="summary-title"><%= country %></span>
           <span class="summary-actions" onclick="event.stopPropagation()">
             <a href="<%= country.downcase.tr(' ', '_') %>/<%= country.downcase.tr(' ', '_') %>_all.ics" class="btn-ical" target="_blank">
-              <%= calendar_icon %> All Celestial Events
+              <%= calendar_icon %>
+              <span class="btn-label-full">All Celestial Events</span>
+              <span class="btn-label-short">All</span>
             </a>
           </span>
         </summary>

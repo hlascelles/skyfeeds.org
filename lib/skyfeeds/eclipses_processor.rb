@@ -124,7 +124,7 @@ module Skyfeeds
         datetime = DateTime.parse("#{date_str}T#{time_str}")
         event.dtstart = datetime
         event.dtstamp = datetime
-        event.summary = "#{eclipse.type} #{eclipse.category} Eclipse"
+        event.summary = "#{eclipse.type.to_s.capitalize} #{eclipse.category.to_s.capitalize} Eclipse"
 
         # Create a UID without spaces
         event.uid = "#{date_str}-#{time_str}-#{eclipse.type}-#{eclipse.category}".downcase.tr(
@@ -132,13 +132,20 @@ module Skyfeeds
         )
 
         # Add description
-        description = "Type: #{eclipse.type} #{eclipse.category} Eclipse"
+        description = "Type: #{eclipse.type.to_s.capitalize} #{eclipse.category.to_s.capitalize} Eclipse"
 
-        description += "\nRegion: #{eclipse.region}" if eclipse.region && !eclipse.region.empty?
+        if eclipse.region && !eclipse.region.empty?
+          # Expand NASA single-letter directional abbreviations (s Africa → S. Africa)
+          formatted_region = eclipse.region.gsub(/\b([nsewc]) /) { "#{$1.upcase}. " }
+          description += "\nRegion: #{formatted_region}"
+        end
 
         description += "\nCountries: #{eclipse.countries.join(', ')}" if eclipse.countries&.any?
 
+        description += "\nMore info: #{eclipse.url}"
+
         event.description = description
+        event.url = eclipse.url
 
         # Add to calendar
         cal.add_event(event)
