@@ -32,8 +32,8 @@ RSpec.describe "HTML ICS links validation" do
   end
 
   it "validates example file specifically mentioned in requirements" do
-    # Check the specific example file mentioned in requirements
-    example_path = "europe/europe_solar_total.ics"
+    # Check a specific example file exists and is linked
+    example_path = "europe/europe_all.ics"
     absolute_example_path = File.join(docs_dir, example_path)
 
     # First check if it's linked in the HTML
