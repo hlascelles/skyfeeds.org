@@ -22,7 +22,11 @@ module Skyfeeds
       HYBRID = new # Solar only
     end
 
-    def totalish? = [TOTAL, HYBRID, ANNULAR]
+    TOTALISH_TYPES = [TOTAL, HYBRID, ANNULAR].freeze
+
+    def totalish?
+      TOTALISH_TYPES.include?(self)
+    end
 
     def to_s = serialize
 
