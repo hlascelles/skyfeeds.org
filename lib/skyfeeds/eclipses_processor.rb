@@ -1,11 +1,11 @@
 require "fileutils"
 require "icalendar"
-require "erubis"
 require_relative "constants"
 require_relative "eclipse"
 require_relative "solar_eclipses_reader"
 require_relative "lunar_eclipses_reader"
 require_relative "ical_generator"
+require_relative "other_celestial_events_reader" # Added require
 
 module Skyfeeds
   class EclipsesProcessor
@@ -24,9 +24,12 @@ module Skyfeeds
         country_data(country)&.zones&.first || TZInfo::Timezone.get("UTC")
       end
 
-      def local_time_for_country(eclipse, country)
+      # Modified to accept generic 'event' and handle potential missing time for celestial events
+      def local_time_for_country(event, country)
         tzid = country_timezone(country)
-        tzid.to_local(eclipse.time)
+        # Use event.time for eclipses, or default to noon UTC if event.time is not present (e.g., for CelestialEvent)
+        time_to_convert = event.respond_to?(:time) && event.time ? event.time : Time.parse("#{event.date}T12:00:00Z")
+        tzid.to_local(time_to_convert)
       end
 
       def clean_output_dir
@@ -43,6 +46,7 @@ module Skyfeeds
         # Read eclipse data
         solar_eclipses = SolarEclipsesReader.process
         lunar_eclipses = LunarEclipsesReader.process
+        celestial_events = OtherCelestialEventsReader.read # Read new celestial events
 
         # Process solar eclipses (pass lunar_eclipses as argument)
         process_solar_eclipses(solar_eclipses, lunar_eclipses)
@@ -50,14 +54,19 @@ module Skyfeeds
         # Process lunar eclipses
         process_lunar_eclipses(lunar_eclipses)
 
-        all_eclipses = solar_eclipses + lunar_eclipses
-        IcalGenerator.generate_ical_file(all_eclipses, "all/all_all.ics", OUTPUT_DIR)
+        # Combine all events (eclipses and celestial events)
+        all_events = solar_eclipses + lunar_eclipses + celestial_events
+        # Sort events by date
+        all_events.sort_by! { |event| event.date }
+
+        # Generate overall ICS feed with all events
+        Skyfeeds::IcalGenerator.create_calendar(all_events, "all/all_all.ics", OUTPUT_DIR) # Changed to create_calendar
 
         # Generate HTML
-        generate_html(solar_eclipses, lunar_eclipses)
+        generate_html(solar_eclipses, lunar_eclipses, all_events) # Pass individual eclipse lists and combined list
 
-        # Return all eclipses for testing purposes
-        all_eclipses
+        # Return all events for testing purposes
+        all_events
       end
 
       def process_solar_eclipses(solar_eclipses, lunar_eclipses)
@@ -65,13 +74,14 @@ module Skyfeeds
         FileUtils.mkdir_p("#{OUTPUT_DIR}/solar")
 
         # Generate file for all solar eclipses
-        IcalGenerator.generate_ical_file(solar_eclipses, "all/all_solar_all.ics", OUTPUT_DIR)
+        Skyfeeds::IcalGenerator.create_calendar(solar_eclipses, "all/all_solar_all.ics", OUTPUT_DIR) # Changed to create_calendar
 
         # Generate files by continent and country
         generate_location_files(solar_eclipses, lunar_eclipses, :continents)
         generate_location_files(solar_eclipses, lunar_eclipses, :countries)
       end
 
+      # Modified to only consider eclipses for location-specific files
       def generate_location_files(solar_eclipses, lunar_eclipses, attribute)
         locations = solar_eclipses.flat_map { |e| e.send(attribute) }.compact.uniq
         locations.each do |location|
@@ -90,13 +100,13 @@ module Skyfeeds
           e.send(attribute)&.include?(location)
         end
 
-        # All celestial events: all solar for this location + all lunar globally
+        # Only generate if there are eclipses for this location. Celestial events are global and not added to location-specific files.
         return unless location_solar_eclipses.any? || lunar_eclipses.any?
 
         filename = "#{location_str}/#{location_str}_all.ics"
-        IcalGenerator.generate_ical_file(
+        Skyfeeds::IcalGenerator.create_calendar(
           location_solar_eclipses + lunar_eclipses, filename, OUTPUT_DIR
-        )
+        ) # Changed to create_calendar
       end
 
       def process_lunar_eclipses(lunar_eclipses)
@@ -104,16 +114,18 @@ module Skyfeeds
         FileUtils.mkdir_p("#{OUTPUT_DIR}/lunar")
 
         # Generate file for all lunar eclipses
-        IcalGenerator.generate_ical_file(lunar_eclipses, "all/all_lunar_all.ics", OUTPUT_DIR)
+        Skyfeeds::IcalGenerator.create_calendar(lunar_eclipses, "all/all_lunar_all.ics", OUTPUT_DIR) # Changed to create_calendar
       end
 
-      def generate_html(solar_eclipses, lunar_eclipses)
+      # Updated to pass individual eclipse lists and the combined all_events list to the template.
+      def generate_html(solar_eclipses, lunar_eclipses, all_events)
         view_file = "views/index.erb"
         template = Erubis::Eruby.new(File.read(view_file))
 
         html_content = template.result(
-          solar_eclipses: solar_eclipses,
-          lunar_eclipses: lunar_eclipses,
+          solar_eclipses: solar_eclipses, # Pass solar eclipses
+          lunar_eclipses: lunar_eclipses, # Pass lunar eclipses
+          all_events: all_events, # Pass combined list of all events
           country_timezone: method(:country_timezone),
           local_time_for_country: method(:local_time_for_country)
         )

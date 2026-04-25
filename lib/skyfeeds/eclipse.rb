@@ -48,4 +48,27 @@ module Skyfeeds
       "https://www.timeanddate.com/eclipse/#{category}/#{formatted_date}"
     end
   end
+
+  # New Enums and Structs for other celestial events
+  class CelestialEventType < T::Enum
+    enums do
+      SUPERMOON = new
+      STRAWBERRY_MOON = new
+      LEONIDS_PEAK = new
+      GEMINIDS_PEAK = new
+    end
+
+    def to_s = serialize
+    def downcase = to_s.downcase
+  end
+
+  class CelestialEvent < T::Struct
+    const :date, Date
+    # The CSV has "Event Type" and "Event Name".
+    # It makes sense to map "Event Type" to our CelestialEventType enum
+    # and store the specific name from "Event Name" as a string.
+    const :event_type, CelestialEventType
+    const :event_name, String # e.g. "Full Wolf Moon", "Strawberry Moon"
+    const :description, String
+  end
 end
