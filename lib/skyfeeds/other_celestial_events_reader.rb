@@ -9,7 +9,7 @@ module Skyfeeds
     # Path to the CSV file
     CSV_PATH = "config/other_celestial_events.csv".freeze
 
-    sig {returns(T::Array[CelestialEvent])}
+    sig { returns(T::Array[CelestialEvent]) }
     def self.read
       events = []
       CSV.foreach(CSV_PATH, headers: true) do |row|
@@ -21,7 +21,8 @@ module Skyfeeds
         # Revised mapping logic to correctly handle 'Full Moon' and 'Meteor Shower' types
         event_type = if event_type_str == "Supermoon"
                        CelestialEventType::SUPERMOON
-                     elsif event_type_str == "Full Moon" && event_name.downcase.include?("strawberry moon")
+                     elsif event_type_str == "Full Moon" &&
+                           event_name.downcase.include?("strawberry moon")
                        CelestialEventType::STRAWBERRY_MOON
                      elsif event_type_str == "Meteor Shower"
                        case event_name

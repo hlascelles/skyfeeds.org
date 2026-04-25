@@ -24,11 +24,11 @@ module Skyfeeds
         country_data(country)&.zones&.first || TZInfo::Timezone.get("UTC")
       end
 
-      # Modified to accept generic 'event' and handle potential missing time for celestial events
+      # Generic 'event' and handle potential missing time for celestial events
       def local_time_for_country(event, country)
         tzid = country_timezone(country)
-        # Use event.time for eclipses, or default to noon UTC if event.time is not present (e.g., for CelestialEvent)
-        time_to_convert = event.respond_to?(:time) && event.time ? event.time : Time.parse("#{event.date}T12:00:00Z")
+        # Use event.time or default to noon UTC if not present
+        time_to_convert = event.time || Time.parse("#{event.date}T12:00:00Z")
         tzid.to_local(time_to_convert)
       end
 
@@ -57,13 +57,13 @@ module Skyfeeds
         # Combine all events (eclipses and celestial events)
         all_events = solar_eclipses + lunar_eclipses + celestial_events
         # Sort events by date
-        all_events.sort_by! { |event| event.date }
+        all_events.sort_by!(&:date)
 
         # Generate overall ICS feed with all events
-        Skyfeeds::IcalGenerator.create_calendar(all_events, "all/all_all.ics", OUTPUT_DIR) # Changed to create_calendar
+        Skyfeeds::IcalGenerator.create_calendar(all_events, "all/all_all.ics", OUTPUT_DIR)
 
         # Generate HTML
-        generate_html(solar_eclipses, lunar_eclipses, all_events) # Pass individual eclipse lists and combined list
+        generate_html(solar_eclipses, lunar_eclipses, all_events)
 
         # Return all events for testing purposes
         all_events
@@ -74,7 +74,9 @@ module Skyfeeds
         FileUtils.mkdir_p("#{OUTPUT_DIR}/solar")
 
         # Generate file for all solar eclipses
-        Skyfeeds::IcalGenerator.create_calendar(solar_eclipses, "all/all_solar_all.ics", OUTPUT_DIR) # Changed to create_calendar
+        Skyfeeds::IcalGenerator.create_calendar(
+          solar_eclipses, "all/all_solar_all.ics", OUTPUT_DIR
+        )
 
         # Generate files by continent and country
         generate_location_files(solar_eclipses, lunar_eclipses, :continents)
@@ -100,13 +102,14 @@ module Skyfeeds
           e.send(attribute)&.include?(location)
         end
 
-        # Only generate if there are eclipses for this location. Celestial events are global and not added to location-specific files.
+        # Only generate if there are eclipses for this location.
+        # Celestial events are global and not added to location-specific files.
         return unless location_solar_eclipses.any? || lunar_eclipses.any?
 
         filename = "#{location_str}/#{location_str}_all.ics"
         Skyfeeds::IcalGenerator.create_calendar(
           location_solar_eclipses + lunar_eclipses, filename, OUTPUT_DIR
-        ) # Changed to create_calendar
+        )
       end
 
       def process_lunar_eclipses(lunar_eclipses)
@@ -114,7 +117,9 @@ module Skyfeeds
         FileUtils.mkdir_p("#{OUTPUT_DIR}/lunar")
 
         # Generate file for all lunar eclipses
-        Skyfeeds::IcalGenerator.create_calendar(lunar_eclipses, "all/all_lunar_all.ics", OUTPUT_DIR) # Changed to create_calendar
+        Skyfeeds::IcalGenerator.create_calendar(
+          lunar_eclipses, "all/all_lunar_all.ics", OUTPUT_DIR
+        )
       end
 
       # Updated to pass individual eclipse lists and the combined all_events list to the template.
