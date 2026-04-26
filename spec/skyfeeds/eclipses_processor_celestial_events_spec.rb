@@ -37,4 +37,41 @@ RSpec.describe Skyfeeds::EclipsesProcessor do
     expect(lyrids_current_year).not_to be_nil
     expect(lyrids_current_year.dtstart.day).to be_between(20, 23)
   end
+
+  it "contains Perseids Peak events" do
+    cal_data = File.read(ics_path)
+    cal = Icalendar::Calendar.parse(cal_data).first
+    perseids = cal.events.select { |e| e.summary == "Perseids Peak" }
+    expect(perseids).not_to be_empty
+  end
+
+  it "contains Mars Opposition events" do
+    cal_data = File.read(ics_path)
+    cal = Icalendar::Calendar.parse(cal_data).first
+    mars = cal.events.select { |e| e.summary == "Mars Opposition" }
+    expect(mars).not_to be_empty
+  end
+
+  it "contains Transit of Mercury events" do
+    cal_data = File.read(ics_path)
+    cal = Icalendar::Calendar.parse(cal_data).first
+    transit = cal.events.select { |e| e.summary == "Transit of Mercury (Solar viewer required!)" }
+    expect(transit).not_to be_empty
+  end
+
+  it "verifies that all_solar_lunar.ics does not contain celestial events" do
+    solar_lunar_ics_path = "docs/all/all_solar_lunar.ics"
+    cal_data = File.read(solar_lunar_ics_path)
+    cal = Icalendar::Calendar.parse(cal_data).first
+
+    # Check for some celestial events that should NOT be here
+    leonids = cal.events.select { |e| e.summary == "Leonids Peak" }
+    expect(leonids).to be_empty
+
+    perseids = cal.events.select { |e| e.summary == "Perseids Peak" }
+    expect(perseids).to be_empty
+
+    transit = cal.events.select { |e| e.summary == "Transit of Mercury (Solar viewer required!)" }
+    expect(transit).to be_empty
+  end
 end

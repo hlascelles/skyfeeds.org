@@ -76,10 +76,22 @@ module Skyfeeds
   class CelestialEventType < T::Enum
     enums do
       SUPERMOON = new
-      STRAWBERRY_MOON = new
+      NOTABLE_MOON = new
       LEONIDS_PEAK = new
       GEMINIDS_PEAK = new
       LYRIDS_PEAK = new
+      PERSEIDS_PEAK = new
+      PLANETARY_CONJUNCTION = new
+      OPPOSITION = new
+      COMET_FLYBY = new
+      TRANSIT_OF_MERCURY = new
+      PLANETARY_PARADE = new
+      ELONGATION = new
+      QUADRANTIDS_PEAK = new
+      ETA_AQUARIIDS_PEAK = new
+      ORIONIDS_PEAK = new
+      URSIDS_PEAK = new
+      FULL_MOON = new
     end
 
     def to_s = serialize

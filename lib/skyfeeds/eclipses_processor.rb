@@ -62,6 +62,12 @@ module Skyfeeds
         # Generate overall ICS feed with all events
         Skyfeeds::IcalGenerator.create_calendar(all_events, "all/all_all.ics", OUTPUT_DIR)
 
+        # Generate feed with only solar and lunar eclipses
+        solar_lunar_eclipses = (solar_eclipses + lunar_eclipses).sort_by(&:date)
+        Skyfeeds::IcalGenerator.create_calendar(
+          solar_lunar_eclipses, "all/all_solar_lunar.ics", OUTPUT_DIR
+        )
+
         # Generate HTML
         generate_html(solar_eclipses, lunar_eclipses, all_events)
 
