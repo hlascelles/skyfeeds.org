@@ -79,6 +79,7 @@ module Skyfeeds
       STRAWBERRY_MOON = new
       LEONIDS_PEAK = new
       GEMINIDS_PEAK = new
+      LYRIDS_PEAK = new
     end
 
     def to_s = serialize
@@ -103,7 +104,7 @@ module Skyfeeds
     end
 
     def summary
-      event_name.capitalize
+      event_name
     end
 
     def celestial_description

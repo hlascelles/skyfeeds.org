@@ -118,7 +118,7 @@ DTSTAMP:20260103T120000
 UID:2026-01-03-12:00:00-supermoon-full-wolf-moon
 DTSTART:20260103T120000
 DESCRIPTION:Type: Supermoon\nName: Full Wolf Moon\nClosest full moon in Jan
-SUMMARY:Full wolf moon
+SUMMARY:Full Wolf Moon
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260217T121305
@@ -141,12 +141,19 @@ SUMMARY:Total Lunar Eclipse
 URL;VALUE=URI:https://www.timeanddate.com/eclipse/lunar/2026-march-03
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260422T120000
+UID:2026-04-22-12:00:00-lyrids-peak-lyrids-peak
+DTSTART:20260422T120000
+DESCRIPTION:Type: Lyrids peak\nName: Lyrids Peak\n15-20/hour
+SUMMARY:Lyrids Peak
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260531T120000
 UID:2026-05-31-12:00:00-strawberry-moon-strawberry-moon-late-
 DTSTART:20260531T120000
 DESCRIPTION:Type: Strawberry moon\nName: Strawberry Moon (Late)\nAlso a Blu
  e Moon and Micromoon
-SUMMARY:Strawberry moon (late)
+SUMMARY:Strawberry Moon (Late)
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260629T120000
@@ -154,7 +161,7 @@ UID:2026-06-29-12:00:00-strawberry-moon-strawberry-moon
 DTSTART:20260629T120000
 DESCRIPTION:Type: Strawberry moon\nName: Strawberry Moon\nPerigee occurs ne
  ar this date
-SUMMARY:Strawberry moon
+SUMMARY:Strawberry Moon
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260812T174705
@@ -181,21 +188,21 @@ DTSTAMP:20261117T120000
 UID:2026-11-17-12:00:00-leonids-peak-leonids-peak
 DTSTART:20261117T120000
 DESCRIPTION:Type: Leonids peak\nName: Leonids Peak\n10-15/hour
-SUMMARY:Leonids peak
+SUMMARY:Leonids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261124T120000
 UID:2026-11-24-12:00:00-supermoon-full-beaver-moon
 DTSTART:20261124T120000
 DESCRIPTION:Type: Supermoon\nName: Full Beaver Moon\nSecond of the year
-SUMMARY:Full beaver moon
+SUMMARY:Full Beaver Moon
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261214T120000
 UID:2026-12-14-12:00:00-geminids-peak-geminids-peak
 DTSTART:20261214T120000
 DESCRIPTION:Type: Geminids peak\nName: Geminids Peak\nUp to 120/hour
-SUMMARY:Geminids peak
+SUMMARY:Geminids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261223T120000
@@ -203,14 +210,14 @@ UID:2026-12-23-12:00:00-supermoon-full-cold-moon
 DTSTART:20261223T120000
 DESCRIPTION:Type: Supermoon\nName: Full Cold Moon\nClosest supermoon of 202
  6
-SUMMARY:Full cold moon
+SUMMARY:Full Cold Moon
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20270122T120000
 UID:2027-01-22-12:00:00-supermoon-full-moon
 DTSTART:20270122T120000
 DESCRIPTION:Type: Supermoon\nName: Full Moon\nClosest supermoon of 2027
-SUMMARY:Full moon
+SUMMARY:Full Moon
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20270206T160047
@@ -233,12 +240,19 @@ SUMMARY:Penumbral Lunar Eclipse
 URL;VALUE=URI:https://www.timeanddate.com/eclipse/lunar/2027-february-20
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20270422T120000
+UID:2027-04-22-12:00:00-lyrids-peak-lyrids-peak
+DTSTART:20270422T120000
+DESCRIPTION:Type: Lyrids peak\nName: Lyrids Peak\nAverage shower
+SUMMARY:Lyrids Peak
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20270618T120000
 UID:2027-06-18-12:00:00-strawberry-moon-strawberry-moon
 DTSTART:20270618T120000
 DESCRIPTION:Type: Strawberry moon\nName: Strawberry Moon\nApproximate June 
  Full Moon date
-SUMMARY:Strawberry moon
+SUMMARY:Strawberry Moon
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20270802T100749
@@ -266,7 +280,7 @@ DTSTAMP:20271117T120000
 UID:2027-11-17-12:00:00-leonids-peak-leonids-peak
 DTSTART:20271117T120000
 DESCRIPTION:Type: Leonids peak\nName: Leonids Peak\nAverage shower
-SUMMARY:Leonids peak
+SUMMARY:Leonids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20271214T120000
@@ -274,7 +288,7 @@ UID:2027-12-14-12:00:00-geminids-peak-geminids-peak
 DTSTART:20271214T120000
 DESCRIPTION:Type: Geminids peak\nName: Geminids Peak\nReliable year-end sho
  wer
-SUMMARY:Geminids peak
+SUMMARY:Geminids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20280112T000000
@@ -302,7 +316,14 @@ DTSTAMP:20280210T120000
 UID:2028-02-10-12:00:00-supermoon-full-moon
 DTSTART:20280210T120000
 DESCRIPTION:Type: Supermoon\nName: Full Moon\nClosest supermoon of 2028
-SUMMARY:Full moon
+SUMMARY:Full Moon
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20280422T120000
+UID:2028-04-22-12:00:00-lyrids-peak-lyrids-peak
+DTSTART:20280422T120000
+DESCRIPTION:Type: Lyrids peak\nName: Lyrids Peak\nGood viewing conditions
+SUMMARY:Lyrids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20280615T120000
@@ -310,7 +331,7 @@ UID:2028-06-15-12:00:00-strawberry-moon-strawberry-moon
 DTSTART:20280615T120000
 DESCRIPTION:Type: Strawberry moon\nName: Strawberry Moon\nFull Moon nearest
   Summer Solstice
-SUMMARY:Strawberry moon
+SUMMARY:Strawberry Moon
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20280706T000000
@@ -336,7 +357,7 @@ DTSTAMP:20281117T120000
 UID:2028-11-17-12:00:00-leonids-peak-leonids-peak
 DTSTART:20281117T120000
 DESCRIPTION:Type: Leonids peak\nName: Leonids Peak\nActive shower
-SUMMARY:Leonids peak
+SUMMARY:Leonids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20281214T120000
@@ -344,7 +365,7 @@ UID:2028-12-14-12:00:00-geminids-peak-geminids-peak
 DTSTART:20281214T120000
 DESCRIPTION:Type: Geminids peak\nName: Geminids Peak\nSpectacular annual sh
  ower
-SUMMARY:Geminids peak
+SUMMARY:Geminids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20281231T000000
@@ -369,7 +390,14 @@ DTSTAMP:20290330T120000
 UID:2029-03-30-12:00:00-supermoon-full-moon
 DTSTART:20290330T120000
 DESCRIPTION:Type: Supermoon\nName: Full Moon\nClosest supermoon of 2029
-SUMMARY:Full moon
+SUMMARY:Full Moon
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20290422T120000
+UID:2029-04-22-12:00:00-lyrids-peak-lyrids-peak
+DTSTART:20290422T120000
+DESCRIPTION:Type: Lyrids peak\nName: Lyrids Peak\nAnnual shower
+SUMMARY:Lyrids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20290612T040613
@@ -386,7 +414,7 @@ DTSTAMP:20290615T120000
 UID:2029-06-15-12:00:00-strawberry-moon-strawberry-moon
 DTSTART:20290615T120000
 DESCRIPTION:Type: Strawberry moon\nName: Strawberry Moon\nJune Full Moon
-SUMMARY:Strawberry moon
+SUMMARY:Strawberry Moon
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20290626T000000
@@ -413,7 +441,7 @@ UID:2029-11-17-12:00:00-leonids-peak-leonids-peak
 DTSTART:20291117T120000
 DESCRIPTION:Type: Leonids peak\nName: Leonids Peak\nPotential 33-yr cycle a
  ctivity
-SUMMARY:Leonids peak
+SUMMARY:Leonids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20291205T150357
@@ -431,7 +459,7 @@ UID:2029-12-14-12:00:00-geminids-peak-geminids-peak
 DTSTART:20291214T120000
 DESCRIPTION:Type: Geminids peak\nName: Geminids Peak\nReliable meteor showe
  r
-SUMMARY:Geminids peak
+SUMMARY:Geminids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20291220T000000
@@ -441,6 +469,13 @@ DESCRIPTION:Type: Total Lunar Eclipse\nRegion: Global\nMore info: https://w
  ww.timeanddate.com/eclipse/lunar/2029-december-20
 SUMMARY:Total Lunar Eclipse
 URL;VALUE=URI:https://www.timeanddate.com/eclipse/lunar/2029-december-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20300422T120000
+UID:2030-04-22-12:00:00-lyrids-peak-lyrids-peak
+DTSTART:20300422T120000
+DESCRIPTION:Type: Lyrids peak\nName: Lyrids Peak\nAnnual shower
+SUMMARY:Lyrids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20300601T062913
@@ -468,7 +503,7 @@ DTSTAMP:20300615T120000
 UID:2030-06-15-12:00:00-strawberry-moon-strawberry-moon
 DTSTART:20300615T120000
 DESCRIPTION:Type: Strawberry moon\nName: Strawberry Moon\nJune Full Moon
-SUMMARY:Strawberry moon
+SUMMARY:Strawberry Moon
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20300715T120000
@@ -476,14 +511,14 @@ UID:2030-07-15-12:00:00-supermoon-closest-supermoon
 DTSTART:20300715T120000
 DESCRIPTION:Type: Supermoon\nName: Closest Supermoon\nEstimated peak for 20
  30
-SUMMARY:Closest supermoon
+SUMMARY:Closest Supermoon
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20301117T120000
 UID:2030-11-17-12:00:00-leonids-peak-leonids-peak
 DTSTART:20301117T120000
 DESCRIPTION:Type: Leonids peak\nName: Leonids Peak\nAverage shower
-SUMMARY:Leonids peak
+SUMMARY:Leonids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20301125T065137
@@ -510,7 +545,14 @@ DTSTAMP:20301214T120000
 UID:2030-12-14-12:00:00-geminids-peak-geminids-peak
 DTSTART:20301214T120000
 DESCRIPTION:Type: Geminids peak\nName: Geminids Peak\nStrong meteor shower
-SUMMARY:Geminids peak
+SUMMARY:Geminids Peak
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20310422T120000
+UID:2031-04-22-12:00:00-lyrids-peak-lyrids-peak
+DTSTART:20310422T120000
+DESCRIPTION:Type: Lyrids peak\nName: Lyrids Peak\nAnnual shower
+SUMMARY:Lyrids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20310507T000000
@@ -547,7 +589,7 @@ DTSTAMP:20310615T120000
 UID:2031-06-15-12:00:00-strawberry-moon-strawberry-moon
 DTSTART:20310615T120000
 DESCRIPTION:Type: Strawberry moon\nName: Strawberry Moon\nJune Full Moon
-SUMMARY:Strawberry moon
+SUMMARY:Strawberry Moon
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20310715T120000
@@ -555,7 +597,7 @@ UID:2031-07-15-12:00:00-supermoon-closest-supermoon
 DTSTART:20310715T120000
 DESCRIPTION:Type: Supermoon\nName: Closest Supermoon\nEstimated peak for 20
  31
-SUMMARY:Closest supermoon
+SUMMARY:Closest Supermoon
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20311030T000000
@@ -581,14 +623,21 @@ DTSTAMP:20311117T120000
 UID:2031-11-17-12:00:00-leonids-peak-leonids-peak
 DTSTART:20311117T120000
 DESCRIPTION:Type: Leonids peak\nName: Leonids Peak\nAverage shower
-SUMMARY:Leonids peak
+SUMMARY:Leonids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20311214T120000
 UID:2031-12-14-12:00:00-geminids-peak-geminids-peak
 DTSTART:20311214T120000
 DESCRIPTION:Type: Geminids peak\nName: Geminids Peak\nStrong meteor shower
-SUMMARY:Geminids peak
+SUMMARY:Geminids Peak
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20320422T120000
+UID:2032-04-22-12:00:00-lyrids-peak-lyrids-peak
+DTSTART:20320422T120000
+DESCRIPTION:Type: Lyrids peak\nName: Lyrids Peak\nAnnual shower
+SUMMARY:Lyrids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20320425T000000
@@ -614,7 +663,7 @@ DTSTAMP:20320615T120000
 UID:2032-06-15-12:00:00-strawberry-moon-strawberry-moon
 DTSTART:20320615T120000
 DESCRIPTION:Type: Strawberry moon\nName: Strawberry Moon\nJune Full Moon
-SUMMARY:Strawberry moon
+SUMMARY:Strawberry Moon
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20320715T120000
@@ -622,7 +671,7 @@ UID:2032-07-15-12:00:00-supermoon-closest-supermoon
 DTSTART:20320715T120000
 DESCRIPTION:Type: Supermoon\nName: Closest Supermoon\nEstimated peak for 20
  32
-SUMMARY:Closest supermoon
+SUMMARY:Closest Supermoon
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20321018T000000
@@ -647,14 +696,14 @@ DTSTAMP:20321117T120000
 UID:2032-11-17-12:00:00-leonids-peak-leonids-peak
 DTSTART:20321117T120000
 DESCRIPTION:Type: Leonids peak\nName: Leonids Peak\nAverage shower
-SUMMARY:Leonids peak
+SUMMARY:Leonids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20321214T120000
 UID:2032-12-14-12:00:00-geminids-peak-geminids-peak
 DTSTART:20321214T120000
 DESCRIPTION:Type: Geminids peak\nName: Geminids Peak\nStrong meteor shower
-SUMMARY:Geminids peak
+SUMMARY:Geminids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20330330T180235
@@ -676,11 +725,18 @@ SUMMARY:Total Lunar Eclipse
 URL;VALUE=URI:https://www.timeanddate.com/eclipse/lunar/2033-april-14
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20330422T120000
+UID:2033-04-22-12:00:00-lyrids-peak-lyrids-peak
+DTSTART:20330422T120000
+DESCRIPTION:Type: Lyrids peak\nName: Lyrids Peak\nAnnual shower
+SUMMARY:Lyrids Peak
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20330615T120000
 UID:2033-06-15-12:00:00-strawberry-moon-strawberry-moon
 DTSTART:20330615T120000
 DESCRIPTION:Type: Strawberry moon\nName: Strawberry Moon\nJune Full Moon
-SUMMARY:Strawberry moon
+SUMMARY:Strawberry Moon
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20330715T120000
@@ -688,7 +744,7 @@ UID:2033-07-15-12:00:00-supermoon-closest-supermoon
 DTSTART:20330715T120000
 DESCRIPTION:Type: Supermoon\nName: Closest Supermoon\nEstimated peak for 20
  33
-SUMMARY:Closest supermoon
+SUMMARY:Closest Supermoon
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20330923T135431
@@ -704,14 +760,14 @@ DTSTAMP:20331117T120000
 UID:2033-11-17-12:00:00-leonids-peak-leonids-peak
 DTSTART:20331117T120000
 DESCRIPTION:Type: Leonids peak\nName: Leonids Peak\nAverage shower
-SUMMARY:Leonids peak
+SUMMARY:Leonids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20331214T120000
 UID:2033-12-14-12:00:00-geminids-peak-geminids-peak
 DTSTART:20331214T120000
 DESCRIPTION:Type: Geminids peak\nName: Geminids Peak\nStrong meteor shower
-SUMMARY:Geminids peak
+SUMMARY:Geminids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20340320T101845
@@ -726,11 +782,18 @@ SUMMARY:Total Solar Eclipse
 URL;VALUE=URI:https://www.timeanddate.com/eclipse/solar/2034-march-20
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20340422T120000
+UID:2034-04-22-12:00:00-lyrids-peak-lyrids-peak
+DTSTART:20340422T120000
+DESCRIPTION:Type: Lyrids peak\nName: Lyrids Peak\nAnnual shower
+SUMMARY:Lyrids Peak
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20340615T120000
 UID:2034-06-15-12:00:00-strawberry-moon-strawberry-moon
 DTSTART:20340615T120000
 DESCRIPTION:Type: Strawberry moon\nName: Strawberry Moon\nJune Full Moon
-SUMMARY:Strawberry moon
+SUMMARY:Strawberry Moon
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20340715T120000
@@ -738,7 +801,7 @@ UID:2034-07-15-12:00:00-supermoon-closest-supermoon
 DTSTART:20340715T120000
 DESCRIPTION:Type: Supermoon\nName: Closest Supermoon\nEstimated peak for 20
  34
-SUMMARY:Closest supermoon
+SUMMARY:Closest Supermoon
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20340912T161927
@@ -756,14 +819,14 @@ DTSTAMP:20341117T120000
 UID:2034-11-17-12:00:00-leonids-peak-leonids-peak
 DTSTART:20341117T120000
 DESCRIPTION:Type: Leonids peak\nName: Leonids Peak\nAverage shower
-SUMMARY:Leonids peak
+SUMMARY:Leonids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20341214T120000
 UID:2034-12-14-12:00:00-geminids-peak-geminids-peak
 DTSTART:20341214T120000
 DESCRIPTION:Type: Geminids peak\nName: Geminids Peak\nStrong meteor shower
-SUMMARY:Geminids peak
+SUMMARY:Geminids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20350309T230553
@@ -777,11 +840,18 @@ SUMMARY:Annular Solar Eclipse
 URL;VALUE=URI:https://www.timeanddate.com/eclipse/solar/2035-march-09
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20350422T120000
+UID:2035-04-22-12:00:00-lyrids-peak-lyrids-peak
+DTSTART:20350422T120000
+DESCRIPTION:Type: Lyrids peak\nName: Lyrids Peak\nAnnual shower
+SUMMARY:Lyrids Peak
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20350615T120000
 UID:2035-06-15-12:00:00-strawberry-moon-strawberry-moon
 DTSTART:20350615T120000
 DESCRIPTION:Type: Strawberry moon\nName: Strawberry Moon\nJune Full Moon
-SUMMARY:Strawberry moon
+SUMMARY:Strawberry Moon
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20350715T120000
@@ -789,7 +859,7 @@ UID:2035-07-15-12:00:00-supermoon-closest-supermoon
 DTSTART:20350715T120000
 DESCRIPTION:Type: Supermoon\nName: Closest Supermoon\nEstimated peak for 20
  35
-SUMMARY:Closest supermoon
+SUMMARY:Closest Supermoon
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20350902T015646
@@ -806,14 +876,14 @@ DTSTAMP:20351117T120000
 UID:2035-11-17-12:00:00-leonids-peak-leonids-peak
 DTSTART:20351117T120000
 DESCRIPTION:Type: Leonids peak\nName: Leonids Peak\nAverage shower
-SUMMARY:Leonids peak
+SUMMARY:Leonids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20351214T120000
 UID:2035-12-14-12:00:00-geminids-peak-geminids-peak
 DTSTART:20351214T120000
 DESCRIPTION:Type: Geminids peak\nName: Geminids Peak\nStrong meteor shower
-SUMMARY:Geminids peak
+SUMMARY:Geminids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20360227T044649
@@ -826,11 +896,18 @@ SUMMARY:Partial Solar Eclipse
 URL;VALUE=URI:https://www.timeanddate.com/eclipse/solar/2036-february-27
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20360422T120000
+UID:2036-04-22-12:00:00-lyrids-peak-lyrids-peak
+DTSTART:20360422T120000
+DESCRIPTION:Type: Lyrids peak\nName: Lyrids Peak\nAnnual shower
+SUMMARY:Lyrids Peak
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20360615T120000
 UID:2036-06-15-12:00:00-strawberry-moon-strawberry-moon
 DTSTART:20360615T120000
 DESCRIPTION:Type: Strawberry moon\nName: Strawberry Moon\nJune Full Moon
-SUMMARY:Strawberry moon
+SUMMARY:Strawberry Moon
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20360715T120000
@@ -838,7 +915,7 @@ UID:2036-07-15-12:00:00-supermoon-closest-supermoon
 DTSTART:20360715T120000
 DESCRIPTION:Type: Supermoon\nName: Closest Supermoon\nEstimated peak for 20
  36
-SUMMARY:Closest supermoon
+SUMMARY:Closest Supermoon
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20360723T103206
@@ -864,14 +941,14 @@ DTSTAMP:20361117T120000
 UID:2036-11-17-12:00:00-leonids-peak-leonids-peak
 DTSTART:20361117T120000
 DESCRIPTION:Type: Leonids peak\nName: Leonids Peak\nAverage shower
-SUMMARY:Leonids peak
+SUMMARY:Leonids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20361214T120000
 UID:2036-12-14-12:00:00-geminids-peak-geminids-peak
 DTSTART:20361214T120000
 DESCRIPTION:Type: Geminids peak\nName: Geminids Peak\nStrong meteor shower
-SUMMARY:Geminids peak
+SUMMARY:Geminids Peak
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20370116T094855
