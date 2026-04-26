@@ -1,59 +1,99 @@
 Date,Event Type,Event Name,Description
-2026-01-03,Supermoon,Full Wolf Moon,Closest full moon in Jan
-2026-05-31,Full Moon,Strawberry Moon (Late),Also a Blue Moon and Micromoon
-2026-06-29,Full Moon,Strawberry Moon,Perigee occurs near this date
-2026-11-24,Supermoon,Full Beaver Moon,Second of the year
-2026-12-23,Supermoon,Full Cold Moon,Closest supermoon of 2026
-2026-11-17,Meteor Shower,Leonids Peak,10-15/hour
-2026-12-14,Meteor Shower,Geminids Peak,Up to 120/hour
-2027-01-22,Supermoon,Full Moon,Closest supermoon of 2027
-2027-06-18,Full Moon,Strawberry Moon,Approximate June Full Moon date
-2027-11-17,Meteor Shower,Leonids Peak,Average shower
-2027-12-14,Meteor Shower,Geminids Peak,Reliable year-end shower
-2028-02-10,Supermoon,Full Moon,Closest supermoon of 2028
-2028-06-15,Full Moon,Strawberry Moon,Full Moon nearest Summer Solstice
-2028-11-17,Meteor Shower,Leonids Peak,Active shower
-2028-12-14,Meteor Shower,Geminids Peak,Spectacular annual shower
-2029-03-30,Supermoon,Full Moon,Closest supermoon of 2029
-2029-06-15,Full Moon,Strawberry Moon,June Full Moon
-2029-11-17,Meteor Shower,Leonids Peak,Potential 33-yr cycle activity
-2029-12-14,Meteor Shower,Geminids Peak,Reliable meteor shower
+2026-01-03,Full Moon,Full Moon,Closest full moon in January (Supermoon)
+2026-01-04,Meteor Shower,Quadrantids Peak,Strong annual shower
+2026-02-24,Elongation,Mercury Greatest Eastern Elongation,Visible in the evening sky
+2026-04-22,Meteor Shower,Lyrids Peak,15-20/hour
+2026-05-05,Meteor Shower,Eta Aquariids Peak,Strong shower
+2026-05-31,Full Moon,Full Blue Moon,Also a micromoon
+2026-06-09,Conjunction,Venus-Jupiter Conjunction,Two brightest planets close together
+2026-06-09,Elongation,Venus Greatest Western Elongation,Bright morning star
+2026-06-12,Planetary Parade,Planetary Alignment,Mini evening alignment of Mercury Jupiter and Venus
+2026-06-24,Elongation,Mercury Greatest Western Elongation,Visible in the morning sky
+2026-06-30,Full Moon,Full Strawberry Moon,June full moon
+2026-08-12,Meteor Shower,Perseids Peak,Up to ~100/hour
+2026-08-12,Planetary Parade,Planetary Alignment,Large morning alignment of Jupiter Mercury Mars Uranus Saturn and Neptune
+2026-10-21,Meteor Shower,Orionids Peak,Reliable mid-October shower
+2026-11-14,Planetary Parade,Planetary Alignment,Small morning alignment of Mercury Venus Mars and Jupiter
+2026-11-17,Meteor Shower,Leonids Peak,Annual Leonids shower
+2026-11-24,Full Moon,Full Beaver Moon,Second major full moon of the year
+2026-12-14,Meteor Shower,Geminids Peak,Up to ~120/hour
+2026-12-22,Meteor Shower,Ursids Peak,Minor winter shower
+2026-12-23,Full Moon,Full Cold Moon,Closest supermoon of 2026
+2027-01-22,Full Moon,Full Moon (Supermoon),Closest supermoon of 2027
+2027-02-11,Opposition,Jupiter Opposition,Visible all night
+2027-02-19,Opposition,Mars Opposition,Red planet at its brightest
+2027-04-18,Planetary Parade,Planetary Alignment,Small morning alignment of Mercury Venus Saturn and Neptune
+2027-04-22,Meteor Shower,Lyrids Peak,Annual shower
+2027-05-05,Meteor Shower,Eta Aquariids Peak,Strong shower
+2027-06-18,Full Moon,Full Strawberry Moon,June full moon
+2027-07-02,Planetary Parade,Planetary Alignment,Large morning alignment of Mercury Venus Saturn Uranus and Neptune
+2027-08-12,Meteor Shower,Perseids Peak,Annual peak
+2027-09-18,Planetary Parade,Planetary Alignment,Mini evening alignment of Mercury Venus and Mars
+2027-10-21,Meteor Shower,Orionids Peak,Reliable shower
+2027-11-17,Meteor Shower,Leonids Peak,Annual shower
+2027-12-14,Meteor Shower,Geminids Peak,Strong year-end shower
+2027-12-25,Planetary Parade,Planetary Alignment,Large evening alignment of Mercury Venus Mars Saturn Uranus and Neptune
+2028-02-10,Full Moon,Full Moon (Supermoon),Closest supermoon of 2028
+2028-04-22,Meteor Shower,Lyrids Peak,Annual shower
+2028-05-05,Meteor Shower,Eta Aquariids Peak,Strong shower
+2028-06-15,Full Moon,Full Strawberry Moon,June full moon
+2028-08-12,Meteor Shower,Perseids Peak,Annual peak
+2028-08-24,Comet Flyby,Comet 67P Flyby,Return of the Rosetta comet
+2028-10-21,Meteor Shower,Orionids Peak,Annual shower
+2028-11-17,Meteor Shower,Leonids Peak,Annual shower
+2028-12-14,Meteor Shower,Geminids Peak,Annual strong shower
+2029-03-25,Opposition,Mars Opposition,Closest approach to Earth
+2029-03-30,Full Moon,Full Moon (Supermoon),Closest supermoon of 2029
+2029-04-22,Meteor Shower,Lyrids Peak,Annual shower
+2029-05-05,Meteor Shower,Eta Aquariids Peak,Strong shower
+2029-06-14,Full Moon,Full Strawberry Moon,June full moon
+2029-08-12,Meteor Shower,Perseids Peak,Annual peak
+2029-10-21,Meteor Shower,Orionids Peak,Annual shower
+2029-11-17,Meteor Shower,Leonids Peak,Annual shower
+2029-12-14,Meteor Shower,Geminids Peak,Annual strong shower
+2030-01-04,Meteor Shower,Quadrantids Peak,Strong annual shower
+2030-04-22,Meteor Shower,Lyrids Peak,Annual shower
+2030-05-05,Meteor Shower,Eta Aquariids Peak,Strong shower
+2030-06-13,Full Moon,Full Strawberry Moon,June full moon
 2030-07-15,Supermoon,Closest Supermoon,Estimated peak for 2030
-2030-06-15,Full Moon,Strawberry Moon,June Full Moon
-2030-11-17,Meteor Shower,Leonids Peak,Average shower
-2030-12-14,Meteor Shower,Geminids Peak,Strong meteor shower
-2031-07-15,Supermoon,Closest Supermoon,Estimated peak for 2031
+2030-08-12,Meteor Shower,Perseids Peak,Annual peak
+2030-10-21,Meteor Shower,Orionids Peak,Annual shower
+2030-11-17,Meteor Shower,Leonids Peak,Annual shower
+2030-12-14,Meteor Shower,Geminids Peak,Annual strong shower
+2031-04-22,Meteor Shower,Lyrids Peak,Annual shower
 2031-06-15,Full Moon,Strawberry Moon,June Full Moon
+2031-07-15,Supermoon,Closest Supermoon,Estimated peak for 2031
+2031-08-12,Meteor Shower,Perseids Peak,Annual peak
 2031-11-17,Meteor Shower,Leonids Peak,Average shower
 2031-12-14,Meteor Shower,Geminids Peak,Strong meteor shower
-2032-07-15,Supermoon,Closest Supermoon,Estimated peak for 2032
+2032-04-22,Meteor Shower,Lyrids Peak,Annual shower
 2032-06-15,Full Moon,Strawberry Moon,June Full Moon
+2032-07-15,Supermoon,Closest Supermoon,Estimated peak for 2032
+2032-08-12,Meteor Shower,Perseids Peak,Annual peak
+2032-11-13,Transit,Transit of Mercury (Solar viewer required!),Rare transit across the sun
 2032-11-17,Meteor Shower,Leonids Peak,Average shower
 2032-12-14,Meteor Shower,Geminids Peak,Strong meteor shower
-2033-07-15,Supermoon,Closest Supermoon,Estimated peak for 2033
+2033-04-22,Meteor Shower,Lyrids Peak,Annual shower
 2033-06-15,Full Moon,Strawberry Moon,June Full Moon
+2033-07-15,Supermoon,Closest Supermoon,Estimated peak for 2033
+2033-08-12,Meteor Shower,Perseids Peak,Annual peak
 2033-11-17,Meteor Shower,Leonids Peak,Average shower
 2033-12-14,Meteor Shower,Geminids Peak,Strong meteor shower
-2034-07-15,Supermoon,Closest Supermoon,Estimated peak for 2034
+2034-04-22,Meteor Shower,Lyrids Peak,Annual shower
 2034-06-15,Full Moon,Strawberry Moon,June Full Moon
+2034-07-15,Supermoon,Closest Supermoon,Estimated peak for 2034
+2034-08-12,Meteor Shower,Perseids Peak,Annual peak
 2034-11-17,Meteor Shower,Leonids Peak,Average shower
 2034-12-14,Meteor Shower,Geminids Peak,Strong meteor shower
-2035-07-15,Supermoon,Closest Supermoon,Estimated peak for 2035
+2035-04-22,Meteor Shower,Lyrids Peak,Annual shower
 2035-06-15,Full Moon,Strawberry Moon,June Full Moon
+2035-07-15,Supermoon,Closest Supermoon,Estimated peak for 2035
+2035-08-12,Meteor Shower,Perseids Peak,Annual peak
 2035-11-17,Meteor Shower,Leonids Peak,Average shower
 2035-12-14,Meteor Shower,Geminids Peak,Strong meteor shower
-2036-07-15,Supermoon,Closest Supermoon,Estimated peak for 2036
+2036-04-22,Meteor Shower,Lyrids Peak,Annual shower
 2036-06-15,Full Moon,Strawberry Moon,June Full Moon
+2036-07-15,Supermoon,Closest Supermoon,Estimated peak for 2036
+2036-08-12,Meteor Shower,Perseids Peak,Annual peak
 2036-11-17,Meteor Shower,Leonids Peak,Average shower
 2036-12-14,Meteor Shower,Geminids Peak,Strong meteor shower
-2026-04-22,Meteor Shower,Lyrids Peak,15-20/hour
-2027-04-22,Meteor Shower,Lyrids Peak,Average shower
-2028-04-22,Meteor Shower,Lyrids Peak,Good viewing conditions
-2029-04-22,Meteor Shower,Lyrids Peak,Annual shower
-2030-04-22,Meteor Shower,Lyrids Peak,Annual shower
-2031-04-22,Meteor Shower,Lyrids Peak,Annual shower
-2032-04-22,Meteor Shower,Lyrids Peak,Annual shower
-2033-04-22,Meteor Shower,Lyrids Peak,Annual shower
-2034-04-22,Meteor Shower,Lyrids Peak,Annual shower
-2035-04-22,Meteor Shower,Lyrids Peak,Annual shower
-2036-04-22,Meteor Shower,Lyrids Peak,Annual shower

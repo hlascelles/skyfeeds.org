@@ -26,11 +26,14 @@ module Skyfeeds
     def self.map_event_type(type_str, name)
       case type_str
       when "Supermoon" then CelestialEventType::SUPERMOON
-      when "Full Moon"
-        raise "Unrecognized Full Moon: '#{name}'" unless name.downcase.include?("strawberry moon")
-
-        CelestialEventType::STRAWBERRY_MOON
+      when "Full Moon" then CelestialEventType::FULL_MOON
       when "Meteor Shower" then map_meteor_shower(name)
+      when "Conjunction" then CelestialEventType::PLANETARY_CONJUNCTION
+      when "Opposition" then CelestialEventType::OPPOSITION
+      when "Comet Flyby" then CelestialEventType::COMET_FLYBY
+      when "Transit" then CelestialEventType::TRANSIT_OF_MERCURY
+      when "Planetary Parade" then CelestialEventType::PLANETARY_PARADE
+      when "Elongation" then CelestialEventType::ELONGATION
       else raise "Unrecognized event type: '#{type_str}'"
       end
     end
@@ -40,6 +43,11 @@ module Skyfeeds
       when /Leonids Peak/ then CelestialEventType::LEONIDS_PEAK
       when /Geminids Peak/ then CelestialEventType::GEMINIDS_PEAK
       when /Lyrids Peak/ then CelestialEventType::LYRIDS_PEAK
+      when /Perseids Peak/ then CelestialEventType::PERSEIDS_PEAK
+      when /Quadrantids Peak/ then CelestialEventType::QUADRANTIDS_PEAK
+      when /Eta Aquariids Peak/ then CelestialEventType::ETA_AQUARIIDS_PEAK
+      when /Orionids Peak/ then CelestialEventType::ORIONIDS_PEAK
+      when /Ursids Peak/ then CelestialEventType::URSIDS_PEAK
       else raise "Unrecognized meteor shower: '#{name}'"
       end
     end
